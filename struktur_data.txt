@@ -1,0 +1,11 @@
+features:
+- Car ID    : identifikasi unik untuk setiap mobil (tidak relevan untuk analisis karena hanya sebagai ID).
+- Brand     : merek mobil (Toyota, Honda, Ford, Chevrolet, Hyundai).
+- Model     : model spesifik dari setiap merek (Civic, Camry, Fusion, Cruze, Elantra, dll).
+- Year      : tahun produksi mobil.
+- Color     : warna mobil (White, Blue, Black, Silver, Red). 
+- Mileage   : jarak tempuh mobil (kilometer).
+- Price     : harga mobil (USD).
+- Location  : lokasi penjualan mobil (Los Angeles, New York, Chicago, Miami, San Fransisco).
+
+Penting untuk dicatat bahwa ini adalah dataset sintesis, dibuat hanya untuk tujuan demonstrasi. Nilai yang diberikan untuk atribut seperti "Mileage", "Price", dan "Location" bersifat fiktif dan tidak mewakili dunia nyata. Namun dataset ini dapat digunakan untuk berbagai tugas analitik, seperti riset pasar, analisis tren, dan pemodelan data di industri otomotif.

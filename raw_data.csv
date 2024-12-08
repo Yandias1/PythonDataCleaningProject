@@ -1,0 +1,2201 @@
+Car ID,Brand,Model,Year,Color,Mileage,Price,Location
+1,Toyota,Camry,2018,White,45000.0,18000.0,Los Angeles
+2,Honda,Civic,2019,,35000.0,16000.0,New York
+3,Ford,Focus,2017,Silver,,14000.0,Chicago
+4,Chevrolet,Cruze,2016,Red,,12000.0,Miami
+5,Hyundai,Elantra,2018,Black,40000.0,,San Francisco
+6,Toyota,Corolla,2020,Gray,,19000.0,Dallas
+7,Honda,Accord,2019,,30000.0,18000.0,Atlanta
+8,FORD,mustang,2015,Yellow,65000.0,22000.0,Phoenix
+9,Chevrolet,Impala,2017,Black,,16000.0,Houston
+10,Hyundai,sonata,2016,Blue,,,Seattle
+11,Toyota,rav4,2017,Gray,55000.0,$19000.0,Los Angeles
+12,Honda,CR-V,2020,Red,30000.0,23000.0,New York
+13,Ford,escape,2019,White,40000.0,21000.0,Chicago
+14,Chevrolet,Equinox,Two Thousand 2018,Black,,,Miami
+15,Hyundai,kona,2019,,35000.0,20000.0,San Francisco
+16,Toyota,Highlander,2016,,,25000.0,Dallas
+17,Honda,Pilot,2017,Gray,55000.0,,Atlanta
+18,Ford,Explorer,1800,White,,23000.0,Phoenix
+19,Chevrolet,Traverse,2020,Black,0.0,28000.0,Houston
+20,Hyundai,S@nt@ Fe,2019,Red,40000.0,,Seattle
+21,Toyota,4Runner,2015,Silver,70000.0,,Los Angeles
+22,Honda,Odyssey,2016,White,55000.0 miles,22000.0,New York
+23,Ford,Edge,2017,Blue,50000.0,21000.0,Chicago
+24,Chevrolet,Tahoe,2018,,,26000.0,Miami
+25,Hyundai,Palisade,2019,Silver,30000.0,29000.0,San Francisco
+26,Toyota,Sienna,2020,Red,nan km,27000.0,Dallas
+27,Honda,Fit,2017,,55000.0,12000.0,Atlanta
+28,Ford,Fusion,2018,White,50000.0,15000.0,Phoenix
+29,Chevrolet,Malibu,2019,,40000.0,,Houston
+30,Hyundai,Venue,2016,,60000.0,14000.0,Seattle
+31,Toyota,Yaris,2017,Black,55000.0,,Los Angeles
+32,Honda,HR-V,2018,White,50000.0,,New York
+33,Ford,EcoSport,2019,,40000.0,17000.0,Chicago
+34,Chevrolet,Spark,2020,Blue,35000.0,14000.0,Miami
+35,Hyundai,accent,2015,Silver,70000.0 miles,12000.0,San Francisco
+36,Toyota,Prius,2016,Gray,55000.0 km,15000.0,Dallas
+37,Honda,Civic,2017,White,50000.0,17000.0,Atlanta
+38,Ford,Fiesta,2018,Blue,40000.0,14000.0,Phoenix
+39,Chevrolet,cruze,2019,,,16000.0,Houston
+40,Hyundai,Elantra,2020,,,18000.0,Seattle
+41,TOYOTA,Camry,2017,Silver,60000.0,19000.0,Los Angeles
+42,HONDA,Accord,2018,White,50000.0,,New York
+43,Ford,Mustang,Two Thousand 2019,Blue,,22000.0,Chicago
+44,Chevrolet,Camaro,2020,Red,35000.0,,Miami
+45,Hyundai,Genesis,2015,,70000.0,,San Francisco
+46,Toyota,Avalon,2016,Silver,55000.0,19000.0,Dallas
+47,Honda,Civic,Two Thousand 2017,,0.0,17000.0,Atlanta
+48,Ford,Fusion,2018,White,45000.0,16000.0,Phoenix
+49,Chevrolet,impala,Two Thousand 2019,,,18000.0,Houston
+50,Hyundai,Sonata,2020,Red,35000.0,20000.0,Seattle
+51,Toyota,Coroll@,2017,,55000.0,19000.0,Los Angeles
+52,Honda,CR-V,2018,White,,23000.0,New York
+53,Ford,Escape,2019,Blue,40000.0 km,21000.0,Chicago
+54,Chevr0let,Equinox,2020,Black,,24000.0,Miami
+55,Hyundai,Tucson,2015,,70000.0,$20000.0,San Francisco
+56,Toyota,Rav4,2016,Gray,,22000.0,Dallas
+57,Honda,Pilot,2017,White,50000.0,,Atlanta
+58,Ford,Explorer,Two Thousand 2018,Blue,45000.0,,Phoenix
+59,Chevrolet,Traverse,Two Thousand 2019,Black,,,Houston
+60,Hyundai,Santa Fe,2020,Red,35000.0,25000.0,Seattle
+61,T0y0ta,4Runner,2015,Silver,,28000.0,Los Angeles
+62,Honda,Odyssey,2016,White,55000.0,22000.0,New York
+63,FORD,edge,2017,,nan miles,,Chicago
+64,Chevrolet,Tahoe,2018,,45000.0,26000.0,Miami
+65,Hyundai,Palisade,2019,Silver,30000.0,29000.0,San Francisco
+66,T0y0ta,Sienna,2020,,35000.0,,Dallas
+67,HONDA,fit,2017,Gray,55000.0,12000.0,Atlanta
+68,Ford,Fusion,2018,White,50000.0,15000.0,Phoenix
+69,CHEVROLET,Malibu,2019,Blue,40000.0,17000.0,Houston
+70,Hyundai,Venue,2016,,60000.0,,Seattle
+71,Toyota,Yaris,2017,Black,55000.0,,Los Angeles
+72,Toyota,Camry,Two Thousand 2017,White,45000.0,18000.0,Los Angeles
+73,Honda,Civic,2015,Blue,,16000.0,New York
+74,Toyota,Camry,2018,White,55000.0,14000.0,Los Angeles
+75,Honda,civic,2016,Blue,60000.0,$12000.0,New York
+76,Ford,Focus,2019,Silver,40000.0 km,15000.0,Chicago
+77,Chevrolet,Cruze,2015,Red,nan km,19000.0,Miami
+78,Hyundai,Elantra,2020,,30000.0,,San Francisco
+79,TOYOTA,Corolla,2016,Gray,65000.0,,Dallas
+80,HONDA,Accord,2015,White,,16000.0,Atlanta
+81,Ford,Mustang,2020,Yellow,50000.0,14000.0,Phoenix
+82,CHEVROLET,Impala,2025,Black,55000.0,,Houston
+83,Hyundai,Sonata,2020,,,23000.0,Seattle
+84,T0y0ta,Rav5,2017,Gray,nan km,21000.0,Los Angeles
+85,Honda,cr-v,2019,Red,45000.0 km,18000.0,New York
+86,Ford,Escape,2020,,,20000.0,Chicago
+87,Chevrolet,Equinox,2019,,60000.0,25000.0,Miami
+88,Hyundai,Kona,2017,,,24000.0,San Francisco
+89,Toyota,Highlander,2016,Silver,nan miles,23000.0,Dallas
+90,Honda,Pilot,2018,,35000.0,28000.0,Atlanta
+91,Ford,Explorer,2018,White,40000.0,100,Phoenix
+92,CHEVROLET,Traverse,Two Thousand 2016,,,27000.0,Houston
+93,Hyundai,S@nt@ Fe,2020,Red,,22000.0,Seattle
+94,Toyota,4Runner,2017,,50000.0,,Los Angeles
+95,Honda,Odyssey,2017,,45000.0,26000.0,New York
+96,Ford,Edge,2019,Blue,30000.0,29000.0,Chicago
+97,Chevrolet,Tahoe,Two Thousand 2018,,35000.0,,Miami
+98,Hyundai,Palisade,2018,Silver,55000.0,$nan,San Francisco
+99,Toyota,Sienna,2019,,50000.0,15000.0,Dallas
+100,Honda,Fit,2017,Gray,40000.0,17000.0,Atlanta
+101,Ford,Fusion,2015,White,60000.0,,Phoenix
+102,Chevrolet,Malibu,2016,Blue,,12000.0,Houston
+103,Hyundai,Venue,2018,Silver,50000.0,15000.0,Seattle
+104,T0y0ta,yaris,2018,,40000.0 miles,17000.0,Los Angeles
+105,Honda,HR-V,2016,,35000.0,14000.0,New York
+106,Ford,EcoSport,2017,Red,70000.0,12000.0,Chicago
+107,Chevrolet,spark,2017,Blue,55000.0,15000.0,Miami
+108,Hyundai,Accent,Two Thousand 2019,,50000.0,17000.0,San Francisco
+109,Toyota,Prius,2017,,40000.0 km,14000.0,Dallas
+110,Honda,Civic,2015,,45000.0,,Atlanta
+111,Ford,Fiesta,2019,,35000.0,18000.0,Phoenix
+112,Chevrolet,Cruze,2018,,,19000.0,Houston
+113,Hyundai,Elantra,2016,Red,,18000.0,Seattle
+114,Toyota,Camry,2019,Silver,40000.0,22000.0,Los Angeles
+115,Honda,Accord,Two Thousand 2020,,35000.0,25000.0,New York
+116,FORD,Mustang,2020,Blue,70000.0,18000.0,Chicago
+117,Chevrolet,Camaro,2019,,55000.0,19000.0,Miami
+118,Hyundai,Genesis,2017,Black,,17000.0,San Francisco
+119,TOYOTA,avalon,2015,Silver,45000.0,16000.0,Dallas
+120,Honda,Civic,2015,Gray,40000.0,18000.0,Atlanta
+121,Ford,Fusion,2015,White,35000.0,20000.0,Phoenix
+122,Chevrolet,Impala,2020,Blue,,19000.0,Houston
+123,Hyundai,Sonata,2017,Red,50000.0,23000.0,Seattle
+124,Toyota,Corolla,2017,Silver,40000.0,21000.0,Los Angeles
+125,Honda,CR-V,2018,White,35000.0,24000.0,New York
+126,Ford,Escape,2019,,70000.0 km,20000.0,Chicago
+127,Chevrolet,Equinox,2015,Black,55000.0,22000.0,Miami
+128,Hyundai,Tucson,2019,,,24000.0,San Francisco
+129,Toyota,Rav5,2015,Gray,45000.0,23000.0,Dallas
+130,Honda,Pilot,2016,White,40000.0,27000.0,Atlanta
+131,Ford,explorer,2015,Blue,nan km,25000.0,Phoenix
+132,Chevrolet,Traverse,2017,Black,,28000.0,Houston
+133,Hyundai,Santa Fe,Two Thousand 2018,Red,55000.0,,Seattle
+134,Toyota,4Runner,2017,Silver,50000.0 miles,21000.0,Los Angeles
+135,Honda,odyssey,2016,,45000.0 miles,26000.0,New York
+136,Ford,Edge,2019,,30000.0,,Chicago
+137,Chevrolet,Tahoe,2016,Black,35000.0,27000.0,Miami
+138,Hyundai,Palisade,2020,,55000.0,12000.0,San Francisco
+139,Toyota,sienna,2020,Red,50000.0,15000.0,Dallas
+140,Honda,Fit,2018,Gray,40000.0 km,17000.0,Atlanta
+141,Ford,Fusion,2018,,,14000.0,Phoenix
+142,CHEVROLET,malibu,2019,Blue,55000.0 km,12000.0,Houston
+143,Hyundai,Venue,2015,,45000.0,18000.0,Seattle
+144,Toyota,Yaris,2018,Black,,16000.0,Los Angeles
+145,Toyota,Camry,2018,White,55000.0,14000.0,Los Angeles
+146,Honda,civic,2016,Blue,60000.0,12000.0,New York
+147,Toyota,Camry,2016,White,,,Los Angeles
+148,Honda,Civic,2016,,25000.0,,New York
+149,Ford,Focus,Two Thousand 2016,,,,Chicago
+150,Chevrolet,Cruze,2018,Red,65000.0,,Miami
+151,Hyundai,Elantra,2017,,,16000.0,San Francisco
+152,Toyota,Corolla,2019,Gray,nan km,,Dallas
+153,Honda,Accord,2017,White,55000.0,19000.0,Atlanta
+154,F0rd,Mustang,2017,,,23000.0,Phoenix
+155,CHEVROLET,Impala,2015,Black,,21000.0,Houston
+156,Hyundai,Sonata,2017,Blue,45000.0,18000.0,Seattle
+157,Toyota,Rav6,2015,Gray,35000.0 miles,20000.0,Los Angeles
+158,Honda,CR-V,2020,Red,60000.0 miles,25000.0,New York
+159,Ford,Escape,2019,White,55000.0,,Chicago
+160,Chevrolet,Equinox,2015,Black,50000.0,23000.0,Miami
+161,Hyundai,Kona,2020,Blue,35000.0,,San Francisco
+162,Toyota,Highlander,2020,Silver,,,Dallas
+163,Honda,Pilot,2018,Gray,,27000.0,Atlanta
+164,F0rd,Explorer,2015,White,55000.0,,Phoenix
+165,Chevrolet,Traverse,2017,,50000.0,,Houston
+166,Hyundai,Santa Fe,2019,Red,45000.0,26000.0,Seattle
+167,T0y0ta,4Runner,2019,Silver,30000.0,,Los Angeles
+168,H0nda,Odyssey,2016,,35000.0,27000.0,New York
+169,FORD,edge,2019,Blue,55000.0,12000.0,Chicago
+170,Chevrolet,Tahoe,2015,Black,50000.0,,Miami
+171,HYUNDAI,Palisade,2016,Silver,40000.0,17000.0,San Francisco
+172,Toyota,sienna,2019,,60000.0,14000.0,Dallas
+173,HONDA,Fit,Two Thousand 2020,Gray,,12000.0,Atlanta
+174,FORD,Fusion,2019,White,,,Phoenix
+175,Chevr0let,Malibu,2016,Blue,,17000.0,Houston
+176,Hyundai,Venue,2015,Silver,35000.0,,Seattle
+177,Toyota,Yaris,2018,Black,70000.0,12000.0,Los Angeles
+178,Honda,HR-V,2017,White,55000.0,15000.0,New York
+179,Ford,EcoSport,2016,Red,50000.0,$17000.0,Chicago
+180,CHEVROLET,Spark,2016,Blue,,290000.0,Miami
+181,Hyundai,Accent,2016,,45000.0,16000.0,San Francisco
+182,Toyota,Prius,2019,Gray,35000.0,,Dallas
+183,Honda,Civic,2015,White,,19000.0,Atlanta
+184,Ford,Fiesta,2018,Blue,,18000.0,Phoenix
+185,Chevrolet,Cruze,2015,,40000.0 miles,22000.0,Houston
+186,Hyundai,Elantra,2015,Red,nan km,25000.0,Seattle
+187,Toyota,Camry,Two Thousand 2020,Silver,70000.0,18000.0,Los Angeles
+188,Honda,Accord,2016,,,19000.0,New York
+189,FORD,Mustang,2016,Blue,50000.0,17000.0,Chicago
+190,Chevrolet,Camaro,2020,Red,45000.0,16000.0,Miami
+191,Hyundai,Genesis,2020,Black,40000.0,18000.0,San Francisco
+192,Toyota,Avalon,2019,Silver,nan miles,20000.0,Dallas
+193,Honda,Civic,2015,Gray,55000.0 miles,19000.0,Atlanta
+194,Ford,Fusion,2020,,50000.0,$23000.0,Phoenix
+195,Chevrolet,Impala,2016,Blue,,21000.0,Houston
+196,Hyundai,Sonata,2016,Red,35000.0,24000.0,Seattle
+197,Toyota,Corolla,2020,,nan km,,Los Angeles
+198,HONDA,CR-V,Two Thousand 2015,White,55000.0,22000.0,New York
+199,Ford,Escape,2019,Blue,50000.0,24000.0,Chicago
+200,Chevr0let,Equinox,2019,Black,nan miles,23000.0,Miami
+201,Hyundai,tucson,1800,Red,40000.0,,San Francisco
+202,Toyota,Rav6,2016,Gray,35000.0,25000.0,Dallas
+203,HONDA,Pilot,2016,White,70000.0 km,28000.0,Atlanta
+204,Ford,Explorer,2019,Blue,55000.0,,Phoenix
+205,Chevrolet,Traverse,2017,Black,50000.0,21000.0,Houston
+206,HYUNDAI,Santa Fe,Two Thousand 2017,Red,45000.0,26000.0,Seattle
+207,TOYOTA,4Runner,2018,Silver,30000.0,29000.0,Los Angeles
+208,Honda,Odyssey,2015,White,35000.0,27000.0,New York
+209,Ford,Edge,2019,Blue,55000.0 miles,12000.0,Chicago
+210,Chevrolet,tahoe,2018,Black,50000.0,15000.0,Miami
+211,Hyundai,Palisade,2016,Silver,40000.0,,San Francisco
+212,Toyota,Sienna,2018,,60000.0,14000.0,Dallas
+213,Honda,Fit,2019,Gray,55000.0,,Atlanta
+214,Ford,Fusion,2017,White,45000.0 miles,$18000.0,Phoenix
+215,Chevrolet,Malibu,2015,Blue,35000.0,16000.0,Houston
+216,Hyundai,Venue,2016,Silver,55000.0,14000.0,Seattle
+217,Toyota,Yaris,2015,,60000.0,12000.0,Los Angeles
+218,Toyota,Camry,2017,White,40000.0,15000.0,Los Angeles
+219,H0nda,Civic,2015,,25000.0,19000.0,New York
+220,Toyota,Camry,2020,White,30000.0,18000.0,Los Angeles
+221,Honda,Civic,2019,Blue,65000.0,22000.0,New York
+222,F0rd,Focus,2019,,55000.0,16000.0,Chicago
+223,Chevrolet,cruze,2018,Red,50000.0,,Miami
+224,Hyundai,Elantra,2016,Black,55000.0,19000.0,San Francisco
+225,Toyota,Corolla,2018,Gray,30000.0,,Dallas
+226,Honda,Accord,2016,White,40000.0,,Atlanta
+227,FORD,Mustang,2015,Yellow,0.0,,Phoenix
+228,Chevrolet,Impala,Two Thousand 2018,Black,35000.0,,Houston
+229,Hyundai,Sonata,2015,,,25000.0,Seattle
+230,TOYOTA,Rav7,2016,Gray,55000.0,,Los Angeles
+231,Honda,CR-V,2019,Red,50000.0,23000.0,New York
+232,Ford,Escape,2015,White,35000.0,,Chicago
+233,Chevrolet,Equinox,2020,Black,,25000.0,Miami
+234,Hyundai,Kona,2018,,70000.0,27000.0,San Francisco
+235,TOYOTA,Highlander,2020,Silver,55000.0,$22000.0,Dallas
+236,Honda,Pilot,2020,Gray,50000.0,21000.0,Atlanta
+237,Ford,Explorer,2019,,45000.0,100,Phoenix
+238,Chevrolet,Traverse,2018,Black,30000.0,,Houston
+239,Hyundai,Santa Fe,2016,Red,nan km,27000.0,Seattle
+240,TOYOTA,4Runner,Two Thousand 2018,Silver,10,,Los Angeles
+241,H0nda,Odyssey,2017,White,,15000.0,New York
+242,Ford,Edge,2015,,40000.0,,Chicago
+243,Chevrolet,Tahoe,2018,Black,,14000.0,Miami
+244,Hyundai,Palisade,2015,,,12000.0,San Francisco
+245,Toyota,Sienn@,2016,Red,,15000.0,Dallas
+246,Honda,Fit,2020,Gray,40000.0,17000.0,Atlanta
+247,Ford,Fusion,2019,White,,14000.0,Phoenix
+248,Chevrolet,Malibu,2017,Blue,70000.0,12000.0,Houston
+249,Hyundai,Venue,2019,Silver,55000.0,,Seattle
+250,Toyota,Yaris,2017,,50000.0,17000.0,Los Angeles
+251,Honda,HR-V,2020,White,40000.0,14000.0,New York
+252,Ford,EcoSport,2017,Red,45000.0,,Chicago
+253,Chevrolet,Spark,2015,Blue,35000.0,18000.0,Miami
+254,Hyundai,Accent,2015,Silver,60000.0 km,19000.0,San Francisco
+255,Toyota,Prius,2025,Gray,50000.0,,Dallas
+256,Honda,Civic,Two Thousand 2020,White,nan miles,22000.0,Atlanta
+257,Ford,fiesta,2017,Blue,35000.0 km,25000.0,Phoenix
+258,Chevrolet,Cruze,2020,Black,70000.0,18000.0,Houston
+259,Hyundai,Elantra,2018,Red,,19000.0,Seattle
+260,TOYOTA,Camry,2015,Silver,50000.0,,Los Angeles
+261,Honda,Accord,Two Thousand 2020,,,16000.0,New York
+262,Ford,Mustang,2015,Blue,40000.0 miles,18000.0,Chicago
+263,CHEVROLET,Camaro,2016,,nan km,20000.0,Miami
+264,Hyundai,Genesis,2020,,55000.0,19000.0,San Francisco
+265,Toyota,avalon,2016,Silver,50000.0 miles,23000.0,Dallas
+266,Honda,civic,2019,Gray,40000.0,21000.0,Atlanta
+267,Ford,Fusion,2017,White,35000.0,,Phoenix
+268,Chevrolet,impala,2019,,70000.0,20000.0,Houston
+269,Hyundai,Sonata,2015,Red,55000.0,22000.0,Seattle
+270,Toyota,Corolla,Two Thousand 2018,Silver,50000.0,,Los Angeles
+271,Honda,CR-V,2018,White,45000.0,23000.0,New York
+272,Ford,Escape,2019,Blue,40000.0 miles,27000.0,Chicago
+273,Chevrolet,Equinox,2018,Black,35000.0,25000.0,Miami
+274,Hyundai,Tucson,2015,Red,70000.0,28000.0,San Francisco
+275,TOYOTA,Rav7,2019,Gray,55000.0 miles,22000.0,Dallas
+276,Honda,Pilot,2019,White,50000.0 miles,,Atlanta
+277,Ford,explorer,Two Thousand 2017,Blue,45000.0,26000.0,Phoenix
+278,Chevrolet,Traverse,2017,,30000.0,29000.0,Houston
+279,Hyundai,Santa Fe,2018,Red,35000.0,27000.0,Seattle
+280,Toyota,4Runner,2017,Silver,55000.0,,Los Angeles
+281,Honda,Odyssey,2015,,,15000.0,New York
+282,FORD,Edge,2020,Blue,,17000.0,Chicago
+283,Chevr0let,Tahoe,2019,Black,60000.0 miles,14000.0,Miami
+284,Hyundai,Palisade,2017,Silver,55000.0,12000.0,San Francisco
+285,TOYOTA,sienna,2016,Red,45000.0,18000.0,Dallas
+286,Honda,Fit,2017,Gray,,16000.0,Atlanta
+287,Ford,Fusion,2019,,,14000.0,Phoenix
+288,Chevrolet,Malibu,2020,Blue,60000.0,12000.0,Houston
+289,Hyundai,Venue,2018,,40000.0,15000.0,Seattle
+290,Toyota,Yaris,2019,Black,25000.0,19000.0,Los Angeles
+291,Toyota,Camry,2018,,,,Los Angeles
+292,HONDA,Civic,2015,Blue,,22000.0,New York
+293,Toyota,Camry,2015,White,,16000.0,Los Angeles
+294,Honda,Civic,Two Thousand 2019,Blue,50000.0,14000.0,New York
+295,Ford,Focus,2016,Silver,,19000.0,Chicago
+296,Chevr0let,Cruze,2015,,30000.0,,Miami
+297,Hyundai,Elantra,2019,Black,,,San Francisco
+298,Toyota,Corolla,2016,,45000.0,100,Dallas
+299,Honda,Accord,Two Thousand 2020,,35000.0,20000.0,Atlanta
+300,FORD,Must@ng,2019,Yellow,60000.0,25000.0,Phoenix
+301,Chevrolet,impala,2017,Black,55000.0,24000.0,Houston
+302,Hyundai,Sonata,2019,,50000.0,23000.0,Seattle
+303,T0y0ta,Rav8,2019,Gray,,28000.0,Los Angeles
+304,HONDA,CR-V,2017,,40000.0,,New York
+305,F0rd,Escape,2016,White,70000.0 miles,27000.0,Chicago
+306,Chevr0let,Equinox,2016,Black,0.0,22000.0,Miami
+307,Hyundai,Kona,2016,Blue,50000.0 miles,21000.0,San Francisco
+308,Toyota,Highlander,2017,Silver,45000.0,,Dallas
+309,Honda,pilot,2018,Gray,30000.0,,Atlanta
+310,Ford,Explorer,2016,,35000.0,27000.0,Phoenix
+311,Chevrolet,Traverse,2018,Black,,12000.0,Houston
+312,Hyundai,Santa Fe,Two Thousand 2019,Red,50000.0,$nan,Seattle
+313,Toyota,4Runner,2017,,40000.0,,Los Angeles
+314,Honda,Odyssey,2016,,60000.0,$nan,New York
+315,Ford,Edge,2020,Blue,55000.0,,Chicago
+316,Chevr0let,Tahoe,2017,Black,50000.0,,Miami
+317,Hyundai,Palisade,2015,,,17000.0,San Francisco
+318,Toyota,Sienna,2019,,35000.0,14000.0,Dallas
+319,Honda,Fit,2020,Gray,70000.0,,Atlanta
+320,Ford,Fusion,2020,White,55000.0,15000.0,Phoenix
+321,Chevrolet,Malibu,2019,Blue,50000.0,17000.0,Houston
+322,Hyundai,Venue,2018,Silver,40000.0,14000.0,Seattle
+323,Toyota,Yaris,2019,Black,,16000.0,Los Angeles
+324,Honda,HR-V,2017,White,35000.0,,New York
+325,FORD,EcoSport,2020,,60000.0,$19000.0,Chicago
+326,Chevrolet,Spark,2017,Blue,10,18000.0,Miami
+327,Hyundai,Accent,1800,Silver,40000.0,,San Francisco
+328,Toyota,Prius,Two Thousand 2016,,35000.0,25000.0,Dallas
+329,HONDA,Civic,2015,,70000.0,,Atlanta
+330,Ford,Fiesta,2020,Blue,,19000.0,Phoenix
+331,Chevrolet,Cruze,2015,,50000.0,100,Houston
+332,Hyundai,Elantra,2016,,45000.0 miles,,Seattle
+333,Toyota,Camry,2018,,40000.0 km,18000.0,Los Angeles
+334,Honda,Accord,2018,White,,,New York
+335,Ford,Mustang,2019,Blue,55000.0,,Chicago
+336,Chevrolet,Camaro,2019,Red,50000.0 km,,Miami
+337,HYUNDAI,Genesis,1800,Black,40000.0,21000.0,San Francisco
+338,Toyota,avalon,Two Thousand 2019,Silver,35000.0,24000.0,Dallas
+339,Honda,Civic,Two Thousand 2016,Gray,70000.0,20000.0,Atlanta
+340,Ford,Fusion,2018,White,,$22000.0,Phoenix
+341,Chevrolet,Impala,2017,Blue,50000.0,24000.0,Houston
+342,Hyundai,Sonata,2020,,0.0,23000.0,Seattle
+343,Toyota,Corolla,2020,Silver,40000.0 miles,,Los Angeles
+344,Honda,cr-v,2020,White,,25000.0,New York
+345,Ford,Escape,2015,Blue,70000.0,$nan,Chicago
+346,Chevrolet,Equinox,2020,Black,,$22000.0,Miami
+347,Hyundai,Tucson,2017,Red,,21000.0,San Francisco
+348,TOYOTA,rav8,2016,Gray,45000.0 miles,$26000.0,Dallas
+349,Honda,Pilot,2018,,30000.0,29000.0,Atlanta
+350,Ford,Explorer,2025,,35000.0,27000.0,Phoenix
+351,CHEVROLET,Traverse,2019,Black,55000.0,12000.0,Houston
+352,Hyundai,Santa Fe,2017,Red,50000.0,,Seattle
+353,Toyota,4Runner,2016,Silver,40000.0,17000.0,Los Angeles
+354,HONDA,Odyssey,2015,,60000.0,,New York
+355,Ford,Edge,2019,Blue,55000.0 miles,,Chicago
+356,Chevrolet,Tahoe,2016,,45000.0 km,,Miami
+357,Hyundai,Palisade,2015,,35000.0,,San Francisco
+358,TOYOTA,Sienna,2016,Red,55000.0,14000.0,Dallas
+359,Honda,Fit,2019,,60000.0,,Atlanta
+360,Ford,Fusion,2020,White,nan miles,15000.0,Phoenix
+361,Chevrolet,Malibu,2015,Blue,,,Houston
+362,Hyundai,venue,2016,Silver,30000.0 miles,18000.0,Seattle
+363,Toyota,Yaris,2015,Black,65000.0,$22000.0,Los Angeles
+364,Toyota,Camry,2020,White,55000.0,16000.0,Los Angeles
+365,Honda,Civic,2015,Blue,50000.0,14000.0,New York
+366,Toyota,Camry,2020,White,,19000.0,Los Angeles
+367,Honda,Civic,2015,Blue,30000.0,23000.0,New York
+368,Ford,Focus,2016,Silver,40000.0,,Chicago
+369,Chevrolet,Cruze,2019,,45000.0,,Miami
+370,Hyundai,Elantra,Two Thousand 2017,Black,,20000.0,San Francisco
+371,TOYOTA,Corolla,2018,Gray,60000.0,25000.0,Dallas
+372,Honda,Accord,2018,White,55000.0,24000.0,Atlanta
+373,F0rd,Mustang,2015,,50000.0,23000.0,Phoenix
+374,Chevrolet,Impala,2017,Black,,28000.0,Houston
+375,Hyundai,Sonata,2018,,40000.0,25000.0,Seattle
+376,Toyota,Rav9,2015,Gray,70000.0,,Los Angeles
+377,Honda,CR-V,2018,Red,55000.0 miles,,New York
+378,Ford,Escape,2015,,,21000.0,Chicago
+379,Chevrolet,Equinox,2018,,45000.0,26000.0,Miami
+380,Hyundai,Kona,2019,Blue,30000.0,29000.0,San Francisco
+381,Toyota,Highlander,Two Thousand 2019,Silver,35000.0,27000.0,Dallas
+382,Honda,pilot,2017,Gray,55000.0,12000.0,Atlanta
+383,Ford,Explorer,2016,White,50000.0 km,15000.0,Phoenix
+384,Chevrolet,Traverse,2020,,40000.0 miles,17000.0,Houston
+385,HYUNDAI,Santa Fe,2019,,,14000.0,Seattle
+386,Toyota,4Runner,2015,Silver,55000.0,,Los Angeles
+387,Honda,Odyssey,2015,White,50000.0,100,New York
+388,Ford,Edge,Two Thousand 2018,Blue,40000.0 miles,17000.0,Chicago
+389,Chevrolet,tahoe,2017,Black,35000.0,14000.0,Miami
+390,Hyundai,palisade,2020,Silver,,12000.0,San Francisco
+391,Toyota,sienna,2016,Red,nan miles,,Dallas
+392,Honda,Fit,2020,Gray,,17000.0,Atlanta
+393,Ford,Fusion,2019,White,,,Phoenix
+394,Chevrolet,Malibu,2015,Blue,45000.0,16000.0,Houston
+395,Hyundai,venue,2019,Silver,35000.0,18000.0,Seattle
+396,Toyota,Yaris,2017,Black,60000.0,,Los Angeles
+397,Honda,HR-V,2018,,50000.0 miles,,New York
+398,Ford,EcoSport,2016,Red,40000.0 miles,,Chicago
+399,Chevrolet,Spark,2015,Blue,35000.0,25000.0,Miami
+400,Hyundai,Accent,2017,,70000.0,18000.0,San Francisco
+401,Toyota,Prius,2015,Gray,55000.0,$19000.0,Dallas
+402,HONDA,Civic,2017,White,50000.0,17000.0,Atlanta
+403,Ford,Fiesta,1800,Blue,,16000.0,Phoenix
+404,Chevrolet,Cruze,2017,Black,40000.0,18000.0,Houston
+405,Hyundai,Elantra,2020,Red,35000.0,,Seattle
+406,Toyota,Camry,2018,Silver,55000.0,19000.0,Los Angeles
+407,Honda,Accord,2016,White,,23000.0,New York
+408,Ford,Mustang,2015,Blue,40000.0,,Chicago
+409,Chevrolet,Camaro,2017,,35000.0,24000.0,Miami
+410,Hyundai,Genesis,2015,,70000.0 km,20000.0,San Francisco
+411,Toyota,Avalon,2018,Silver,55000.0 km,22000.0,Dallas
+412,Honda,Civic,2020,Gray,50000.0,,Atlanta
+413,FORD,Fusion,2019,White,45000.0,23000.0,Phoenix
+414,Chevrolet,Impala,2015,,10 miles,$27000.0,Houston
+415,HYUNDAI,Sonata,Two Thousand 2015,Red,35000.0,25000.0,Seattle
+416,Toyota,Corolla,2016,Silver,70000.0,28000.0,Los Angeles
+417,Honda,CR-V,2015,White,55000.0,,New York
+418,Ford,Escape,2015,Blue,,21000.0,Chicago
+419,Chevrolet,Equinox,2017,Black,45000.0,26000.0,Miami
+420,Hyundai,Tucson,2016,,30000.0,29000.0,San Francisco
+421,Toyota,Rav9,2018,Gray,35000.0,27000.0,Dallas
+422,Honda,Pilot,2019,White,55000.0,,Atlanta
+423,Ford,Explorer,2019,,,15000.0,Phoenix
+424,Chevrolet,traverse,2020,Black,40000.0,17000.0,Houston
+425,Hyundai,Santa Fe,2020,Red,60000.0,14000.0,Seattle
+426,Toyota,4Runner,2016,Silver,,,Los Angeles
+427,Honda,Odyssey,2019,White,,,New York
+428,Ford,Edge,2015,,,,Chicago
+429,Chevrolet,Tahoe,2016,,,,Miami
+430,HYUNDAI,Palisade,2015,Silver,60000.0,12000.0,San Francisco
+431,Toyota,Sienna,2017,Red,40000.0,15000.0,Dallas
+432,Honda,Fit,2016,Gray,25000.0 miles,19000.0,Atlanta
+433,Ford,Fusion,2016,White,30000.0,,Phoenix
+434,Chevrolet,Malibu,2018,Blue,65000.0,22000.0,Houston
+435,Hyundai,Venue,2015,Silver,55000.0,16000.0,Seattle
+436,Toyota,Yaris,2018,Black,50000.0,,Los Angeles
+437,Toyota,Camry,2016,White,55000.0,19000.0,Los Angeles
+438,Honda,civic,2017,Blue,30000.0,23000.0,New York
+439,T0y0ta,Camry,2019,White,40000.0,21000.0,Los Angeles
+440,Honda,Civic,2016,,45000.0,18000.0,New York
+441,FORD,Focus,2019,Silver,35000.0,$20000.0,Chicago
+442,Chevrolet,Cruze,2017,,0.0,25000.0,Miami
+443,Hyundai,Elantra,2019,Black,55000.0 miles,24000.0,San Francisco
+444,Toyota,Corolla,2015,,50000.0,23000.0,Dallas
+445,Honda,Accord,Two Thousand 2015,White,nan miles,28000.0,Atlanta
+446,Ford,mustang,2016,Yellow,40000.0,25000.0,Phoenix
+447,Chevrolet,impala,Two Thousand 2018,Black,70000.0,100,Houston
+448,Hyundai,Sonata,2020,Blue,55000.0,,Seattle
+449,TOYOTA,Rav10,2019,Gray,50000.0,,Los Angeles
+450,Honda,CR-V,2018,,,,New York
+451,Ford,Escape,2020,White,30000.0,29000.0,Chicago
+452,Chevrolet,Equinox,2015,Black,,27000.0,Miami
+453,Hyundai,kona,2016,Blue,,12000.0,San Francisco
+454,Toyota,Highlander,2015,Silver,50000.0,15000.0,Dallas
+455,Honda,Pilot,2020,Gray,40000.0,,Atlanta
+456,Ford,Explorer,2015,,nan km miles,,Phoenix
+457,CHEVROLET,Traverse,2019,Black,55000.0,,Houston
+458,Hyundai,Santa Fe,2018,,50000.0,,Seattle
+459,Toyota,4Runner,2016,Silver,,17000.0,Los Angeles
+460,HONDA,Odyssey,2018,,35000.0,14000.0,New York
+461,Ford,Edge,1800,,70000.0,,Chicago
+462,Chevrolet,T@hoe,2015,Black,,15000.0,Miami
+463,Hyundai,palisade,2020,,50000.0,17000.0,San Francisco
+464,Toyota,Sienna,2015,Red,,$14000.0,Dallas
+465,Honda,Fit,2017,,45000.0,,Atlanta
+466,Ford,Fusion,2019,White,35000.0 miles,$nan,Phoenix
+467,Chevr0let,Malibu,2018,Blue,60000.0 miles,,Houston
+468,Hyundai,Venue,2016,Silver,50000.0,18000.0,Seattle
+469,Toyota,Yaris,2017,Black,40000.0,22000.0,Los Angeles
+470,Honda,HR-V,2018,White,35000.0,25000.0,New York
+471,Ford,ecosport,2020,,,18000.0,Chicago
+472,Chevrolet,spark,2018,,55000.0,19000.0,Miami
+473,Hyundai,Accent,2018,Silver,,17000.0,San Francisco
+474,Toyota,Prius,2015,Gray,45000.0,16000.0,Dallas
+475,Honda,Civic,2016,White,40000.0,18000.0,Atlanta
+476,Ford,fiesta,2017,,35000.0,,Phoenix
+477,Chevrolet,Cruze,2019,Black,55000.0,,Houston
+478,Hyundai,Elantra,2017,Red,50000.0,23000.0,Seattle
+479,Toyota,Camry,2020,Silver,,21000.0,Los Angeles
+480,Honda,Accord,2019,,,24000.0,New York
+481,Ford,mustang,2016,Blue,70000.0,,Chicago
+482,CHEVROLET,Camaro,2016,Red,55000.0,22000.0,Miami
+483,Hyundai,genesis,2015,Black,nan miles,24000.0,San Francisco
+484,Toyota,avalon,2017,Silver,,23000.0,Dallas
+485,Honda,Civic,2018,,,,Atlanta
+486,F0rd,Fusion,2020,,35000.0,25000.0,Phoenix
+487,Chevrolet,Impala,2016,Blue,70000.0 miles,28000.0,Houston
+488,Hyundai,Sonata,2020,Red,55000.0 km,$22000.0,Seattle
+489,Toyota,Corolla,2017,Silver,50000.0 miles,21000.0,Los Angeles
+490,Honda,CR-V,2018,,45000.0 miles,26000.0,New York
+491,Ford,Escape,2016,Blue,30000.0,29000.0,Chicago
+492,Chevr0let,Equinox,2015,Black,35000.0 miles,27000.0,Miami
+493,Hyundai,Tucson,2015,Red,55000.0,,San Francisco
+494,TOYOTA,Rav10,2019,Gray,50000.0,,Dallas
+495,Honda,Pilot,2018,White,40000.0,17000.0,Atlanta
+496,Ford,Explorer,2020,Blue,10 miles,14000.0,Phoenix
+497,Chevrolet,Traverse,2015,,55000.0,,Houston
+498,Hyundai,S@nt@ Fe,2017,Red,45000.0,,Seattle
+499,Toyota,4Runner,2020,,35000.0,16000.0,Los Angeles
+500,Honda,Odyssey,2018,White,55000.0,14000.0,New York
+501,Ford,Edge,2015,Blue,nan miles,12000.0,Chicago
+502,Chevrolet,Tahoe,2018,Black,40000.0,,Miami
+503,Hyundai,palisade,2017,,25000.0,19000.0,San Francisco
+504,Toyota,Sienna,2020,Red,30000.0,18000.0,Dallas
+505,Honda,Fit,2018,,65000.0,,Atlanta
+506,Ford,fusion,2017,White,nan miles,,Phoenix
+507,Chevrolet,Malibu,2017,Blue,0.0,14000.0,Houston
+508,Hyundai,venue,2015,Silver,55000.0,19000.0,Seattle
+509,Toyota,Yaris,2019,,30000.0,23000.0,Los Angeles
+510,Toyota,Camry,2019,,,21000.0,Los Angeles
+511,Honda,civic,2019,Blue,45000.0,18000.0,New York
+512,TOYOTA,Camry,2018,White,35000.0,20000.0,Los Angeles
+513,Honda,Civic,2020,Blue,60000.0,,New York
+514,Ford,Focus,2020,Silver,55000.0 miles,24000.0,Chicago
+515,Chevrolet,Cruze,2020,Red,50000.0,23000.0,Miami
+516,Hyundai,Elantra,2017,Black,35000.0 km,28000.0,San Francisco
+517,Toyota,Corolla,2019,Gray,nan miles,25000.0,Dallas
+518,Honda,@ccord,2015,White,70000.0,27000.0,Atlanta
+519,Ford,Mustang,Two Thousand 2016,Yellow,55000.0,22000.0,Phoenix
+520,Chevrolet,Impala,2015,Black,50000.0,,Houston
+521,Hyundai,Sonata,2016,Blue,,,Seattle
+522,Toyota,Rav11,2017,Gray,,29000.0,Los Angeles
+523,Honda,CR-V,2015,Red,10,$nan,New York
+524,Ford,Escape,2020,,55000.0,12000.0,Chicago
+525,Chevrolet,Equinox,2016,,50000.0 km,15000.0,Miami
+526,Hyundai,Kona,2018,Blue,40000.0,17000.0,San Francisco
+527,Toyota,Highlander,2018,Silver,60000.0,,Dallas
+528,H0nda,pilot,2018,Gray,10,$nan,Atlanta
+529,Ford,explorer,2017,White,,15000.0,Phoenix
+530,Chevrolet,Traverse,2017,Black,40000.0,,Houston
+531,Hyundai,Santa Fe,2018,Red,35000.0,$290000.0,Seattle
+532,Toyota,4runner,2019,Silver,70000.0 miles,,Los Angeles
+533,Honda,Odyssey,2017,White,55000.0,15000.0,New York
+534,Ford,Edge,2018,Blue,50000.0,17000.0,Chicago
+535,Chevrolet,Tahoe,1800,Black,40000.0,14000.0,Miami
+536,Hyundai,Palisade,2016,Silver,45000.0,,San Francisco
+537,TOYOTA,Sienna,2017,Red,35000.0,18000.0,Dallas
+538,Honda,Fit,2015,Gray,60000.0,,Atlanta
+539,Ford,fusion,2019,,50000.0,18000.0,Phoenix
+540,Chevrolet,Malibu,2017,Blue,40000.0,22000.0,Houston
+541,Hyundai,Venue,2019,,35000.0,25000.0,Seattle
+542,Toyota,Yaris,2020,,,18000.0,Los Angeles
+543,Honda,HR-V,Two Thousand 2016,,55000.0,19000.0,New York
+544,Ford,EcoSport,2016,,50000.0,17000.0,Chicago
+545,Chevrolet,Spark,2018,Blue,45000.0 miles,16000.0,Miami
+546,Hyundai,accent,2019,Silver,nan miles,18000.0,San Francisco
+547,Toyota,Prius,2020,Gray,35000.0,$nan,Dallas
+548,Honda,Civic,2016,White,55000.0,19000.0,Atlanta
+549,Ford,Fiesta,2019,Blue,50000.0,23000.0,Phoenix
+550,Chevrolet,Cruze,2015,Black,,21000.0,Houston
+551,Hyundai,Elantra,2018,Red,nan miles,24000.0,Seattle
+552,Toyota,Camry,2020,Silver,nan miles,20000.0,Los Angeles
+553,Honda,Accord,2017,White,,22000.0,New York
+554,Ford,mustang,2017,,50000.0,,Chicago
+555,Chevrolet,Camaro,2017,Red,45000.0,23000.0,Miami
+556,Hyundai,Genesis,2020,Black,40000.0,,San Francisco
+557,Toyota,Avalon,2016,Silver,35000.0,25000.0,Dallas
+558,Honda,Civic,2020,Gray,70000.0,28000.0,Atlanta
+559,FORD,Fusion,2019,White,55000.0 miles,,Phoenix
+560,CHEVROLET,Impala,2019,Blue,10,21000.0,Houston
+561,Hyundai,Sonata,Two Thousand 2020,Red,45000.0,26000.0,Seattle
+562,Toyota,Corolla,2017,Silver,,,Los Angeles
+563,HONDA,CR-V,2016,White,35000.0,27000.0,New York
+564,F0rd,Escape,2019,Blue,55000.0,12000.0,Chicago
+565,Chevrolet,Equinox,2015,,50000.0,15000.0,Miami
+566,HYUNDAI,Tucson,2016,,40000.0,17000.0,San Francisco
+567,Toyota,Rav11,2019,,60000.0 miles,14000.0,Dallas
+568,Honda,Pilot,2016,White,nan km,12000.0,Atlanta
+569,FORD,Explorer,2020,Blue,45000.0 miles,18000.0,Phoenix
+570,Chevrolet,Traverse,2019,Black,35000.0,16000.0,Houston
+571,Hyundai,Santa Fe,2015,,55000.0,14000.0,Seattle
+572,Toyota,4Runner,2020,Silver,60000.0,12000.0,Los Angeles
+573,Honda,Odyssey,2015,,,15000.0,New York
+574,Ford,Edge,2015,,25000.0,19000.0,Chicago
+575,Chevrolet,Tahoe,2015,Black,30000.0,18000.0,Miami
+576,Hyundai,Palisade,2015,Silver,65000.0,22000.0,San Francisco
+577,Toyota,Sienna,2017,Red,,16000.0,Dallas
+578,Honda,Fit,2020,Gray,50000.0,14000.0,Atlanta
+579,Ford,Fusion,2015,White,,$nan,Phoenix
+580,Chevrolet,Malibu,2019,Blue,,$23000.0,Houston
+581,Hyundai,Venue,2015,Silver,nan miles,21000.0,Seattle
+582,T0y0ta,yaris,2016,Black,45000.0,,Los Angeles
+583,T0y0ta,Camry,2019,White,35000.0,20000.0,Los Angeles
+584,Honda,Civic,2020,Blue,60000.0,25000.0,New York
+585,Toyota,Camry,2016,,55000.0,$24000.0,Los Angeles
+586,HONDA,Civic,Two Thousand 2016,Blue,50000.0,23000.0,New York
+587,Ford,Focus,2016,Silver,35000.0,28000.0,Chicago
+588,Chevrolet,Cruze,2017,Red,10,25000.0,Miami
+589,Hyundai,Elantra,2015,,70000.0,27000.0,San Francisco
+590,Toyota,Corolla,2018,Gray,55000.0,22000.0,Dallas
+591,Honda,Accord,2017,White,50000.0,21000.0,Atlanta
+592,Ford,Mustang,2015,,45000.0,,Phoenix
+593,Chevrolet,Impala,2016,Black,30000.0,,Houston
+594,Hyundai,Sonata,2018,Blue,35000.0,,Seattle
+595,Toyota,Rav12,2020,Gray,55000.0,12000.0,Los Angeles
+596,Honda,CR-V,2016,Red,50000.0,15000.0,New York
+597,Ford,Escape,Two Thousand 2016,White,40000.0,17000.0,Chicago
+598,Chevrolet,Equinox,2017,Black,,14000.0,Miami
+599,Hyundai,Kona,2018,Blue,nan miles,12000.0,San Francisco
+600,Toyota,Highlander,2020,Silver,,15000.0,Dallas
+601,Honda,Pilot,2019,Gray,40000.0,,Atlanta
+602,Ford,Explorer,2017,,,,Phoenix
+603,Chevrolet,Tr@verse,2020,Black,10,12000.0,Houston
+604,Hyundai,Santa Fe,2017,Red,55000.0 miles,,Seattle
+605,Toyota,4Runner,2020,Silver,50000.0,17000.0,Los Angeles
+606,Honda,Odyssey,2018,White,40000.0,14000.0,New York
+607,Ford,Edge,2015,,45000.0,16000.0,Chicago
+608,Chevrolet,T@hoe,2015,Black,35000.0,18000.0,Miami
+609,Hyundai,palisade,2015,Silver,60000.0 km miles,19000.0,San Francisco
+610,Toyota,Sienna,2017,Red,50000.0,18000.0,Dallas
+611,Honda,Fit,2018,Gray,40000.0,22000.0,Atlanta
+612,Ford,Fusion,2015,White,35000.0 miles,25000.0,Phoenix
+613,Chevrolet,Malibu,1800,Blue,70000.0,18000.0,Houston
+614,HYUNDAI,Venue,2015,Silver,55000.0 miles,19000.0,Seattle
+615,Toyota,Yaris,2020,Black,50000.0,,Los Angeles
+616,Honda,HR-V,2018,White,,,New York
+617,Ford,EcoSport,2019,Red,40000.0,,Chicago
+618,Chevrolet,Spark,2016,,,20000.0,Miami
+619,Hyundai,Accent,2015,Silver,55000.0,19000.0,San Francisco
+620,Toyota,Prius,2020,Gray,50000.0 miles,23000.0,Dallas
+621,Honda,civic,2018,White,40000.0 miles,,Atlanta
+622,Ford,Fiesta,2018,,35000.0,24000.0,Phoenix
+623,Chevrolet,Cruze,2018,,70000.0,20000.0,Houston
+624,Hyundai,Elantra,2018,Red,55000.0,22000.0,Seattle
+625,Toyota,Camry,2018,Silver,,24000.0,Los Angeles
+626,Honda,Accord,2015,,,23000.0,New York
+627,Ford,mustang,2015,Blue,40000.0,27000.0,Chicago
+628,Chevrolet,Camaro,2016,Red,35000.0,25000.0,Miami
+629,Hyundai,Genesis,2016,,70000.0 miles,,San Francisco
+630,TOYOTA,Avalon,2015,Silver,55000.0,,Dallas
+631,Honda,Civic,2020,Gray,50000.0,21000.0,Atlanta
+632,Ford,Fusion,2015,White,45000.0,26000.0,Phoenix
+633,Chevrolet,Impala,2019,Blue,,,Houston
+634,Hyundai,Sonata,2017,Red,35000.0,,Seattle
+635,Toyota,Corolla,2020,Silver,55000.0,12000.0,Los Angeles
+636,HONDA,CR-V,2020,White,50000.0,15000.0,New York
+637,Ford,Escape,2015,Blue,40000.0,17000.0,Chicago
+638,Chevrolet,equinox,2016,,,14000.0,Miami
+639,Hyundai,Tucson,2016,,55000.0 km,,San Francisco
+640,Toyota,Rav12,2020,Gray,,18000.0,Dallas
+641,Honda,Pilot,2019,White,,16000.0,Atlanta
+642,FORD,Explorer,2018,Blue,55000.0,14000.0,Phoenix
+643,Chevrolet,Traverse,2017,Black,,12000.0,Houston
+644,Hyundai,Santa Fe,2020,Red,40000.0,15000.0,Seattle
+645,Toyota,4Runner,2020,,25000.0,19000.0,Los Angeles
+646,HONDA,Odyssey,2017,White,30000.0,18000.0,New York
+647,F0rd,Edge,2017,,65000.0,22000.0,Chicago
+648,CHEVROLET,T@hoe,2017,Black,55000.0,16000.0,Miami
+649,Hyundai,Palisade,Two Thousand 2019,Silver,50000.0,$nan,San Francisco
+650,TOYOTA,Sienna,2015,Red,55000.0,,Dallas
+651,HONDA,Fit,2016,Gray,,23000.0,Atlanta
+652,FORD,Fusion,2020,,40000.0,290000.0,Phoenix
+653,Chevrolet,Malibu,2018,Blue,45000.0,18000.0,Houston
+654,Hyundai,venue,2019,Silver,35000.0,20000.0,Seattle
+655,Toyota,yaris,2016,,,25000.0,Los Angeles
+656,Toyota,Camry,2017,White,55000.0,,Los Angeles
+657,HONDA,Civic,2015,,50000.0,23000.0,New York
+658,Toyota,Camry,2016,,10,,Los Angeles
+659,Honda,Civic,2020,,40000.0,25000.0,New York
+660,Ford,Focus,2018,Silver,70000.0 km,27000.0,Chicago
+661,Chevrolet,Cruze,2018,Red,55000.0,22000.0,Miami
+662,Hyundai,Elantra,2019,Black,,$21000.0,San Francisco
+663,Toyota,corolla,2017,Gray,,,Dallas
+664,Honda,Accord,2019,White,30000.0,29000.0,Atlanta
+665,Ford,Mustang,2015,Yellow,35000.0 km,27000.0,Phoenix
+666,CHEVROLET,Impala,2018,Black,,,Houston
+667,Hyundai,sonata,2020,Blue,50000.0,15000.0,Seattle
+668,Toyota,Rav13,2016,Gray,40000.0 km,17000.0,Los Angeles
+669,Honda,CR-V,2017,Red,60000.0,,New York
+670,Ford,Escape,2016,White,,12000.0,Chicago
+671,Chevrolet,Equinox,2016,Black,50000.0 km,15000.0,Miami
+672,Hyundai,Kona,2018,Blue,40000.0,$17000.0,San Francisco
+673,Toyota,Highlander,2017,Silver,,14000.0,Dallas
+674,Honda,Pilot,2019,Gray,70000.0,,Atlanta
+675,Ford,Explorer,2015,White,,,Phoenix
+676,Chevrolet,Traverse,2019,Black,50000.0,17000.0,Houston
+677,Hyundai,Santa Fe,2016,Red,,14000.0,Seattle
+678,Toyota,4Runner,2020,Silver,45000.0,16000.0,Los Angeles
+679,Honda,Odyssey,Two Thousand 2020,White,,18000.0,New York
+680,Ford,Edge,2018,Blue,60000.0,19000.0,Chicago
+681,Chevr0let,Tahoe,Two Thousand 2020,,50000.0,18000.0,Miami
+682,Hyundai,Palisade,2016,Silver,40000.0,,San Francisco
+683,Toyota,Sienna,2019,Red,35000.0 miles,,Dallas
+684,Honda,Fit,2020,Gray,70000.0 miles,,Atlanta
+685,Ford,Fusion,2015,White,55000.0,19000.0,Phoenix
+686,Chevrolet,Malibu,2016,Blue,50000.0,17000.0,Houston
+687,Hyundai,Venue,2016,Silver,45000.0,16000.0,Seattle
+688,Toyota,Yaris,2016,,40000.0,18000.0,Los Angeles
+689,Honda,HR-V,2018,White,35000.0,,New York
+690,Ford,EcoSport,2016,,nan km,,Chicago
+691,Chevr0let,spark,2016,,50000.0,,Miami
+692,Hyundai,Accent,2017,,40000.0,21000.0,San Francisco
+693,Toyota,Prius,2018,,35000.0,24000.0,Dallas
+694,Honda,Civic,2020,,70000.0 km,20000.0,Atlanta
+695,Ford,Fiesta,2016,Blue,0.0,22000.0,Phoenix
+696,Chevrolet,Cruze,2020,Black,50000.0,24000.0,Houston
+697,Hyundai,Elantra,2020,Red,45000.0,23000.0,Seattle
+698,Toyota,Camry,2019,Silver,40000.0,$27000.0,Los Angeles
+699,Honda,Accord,2017,,35000.0,,New York
+700,Ford,mustang,2019,Blue,70000.0 miles,28000.0,Chicago
+701,Chevrolet,Camaro,2015,Red,55000.0 miles,,Miami
+702,HYUNDAI,Genesis,2020,Black,,$nan,San Francisco
+703,Toyota,Avalon,2015,Silver,45000.0,26000.0,Dallas
+704,Honda,Civic,Two Thousand 2019,Gray,,,Atlanta
+705,Ford,Fusion,2018,White,35000.0,,Phoenix
+706,Chevrolet,Impala,2017,Blue,55000.0,12000.0,Houston
+707,Hyundai,Sonata,2015,Red,50000.0,15000.0,Seattle
+708,Toyota,Corolla,Two Thousand 2020,,40000.0,17000.0,Los Angeles
+709,Honda,CR-V,2020,White,nan miles,14000.0,New York
+710,Ford,Escape,2020,Blue,55000.0,12000.0,Chicago
+711,Chevrolet,Equinox,2015,,45000.0,18000.0,Miami
+712,Hyundai,Tucson,2019,Red,35000.0,16000.0,San Francisco
+713,Toyota,rav13,2018,Gray,55000.0,14000.0,Dallas
+714,Honda,Pilot,2017,White,60000.0,12000.0,Atlanta
+715,Ford,Explorer,2020,Blue,40000.0,,Phoenix
+716,Chevrolet,Traverse,2017,Black,25000.0 miles,19000.0,Houston
+717,Hyundai,Santa Fe,2019,Red,,18000.0,Seattle
+718,Toyota,4Runner,2016,Silver,65000.0,,Los Angeles
+719,Honda,Odyssey,2020,,,$16000.0,New York
+720,Ford,Edge,2017,,0.0,14000.0,Chicago
+721,Chevrolet,Tahoe,2015,Black,55000.0 miles,19000.0,Miami
+722,Hyundai,Palisade,2019,Silver,30000.0,23000.0,San Francisco
+723,Toyota,sienna,2017,Red,40000.0,21000.0,Dallas
+724,Honda,Fit,2019,Gray,45000.0,,Atlanta
+725,Ford,Fusion,Two Thousand 2015,White,35000.0,,Phoenix
+726,Chevrolet,Malibu,2019,Blue,60000.0,,Houston
+727,Hyundai,Venue,2020,Silver,,24000.0,Seattle
+728,Toyota,Yaris,2017,,50000.0,23000.0,Los Angeles
+729,Toyota,Camry,2019,White,35000.0 miles,28000.0,Los Angeles
+730,Honda,Civic,2017,Blue,40000.0 miles,,New York
+731,TOYOTA,Camry,2018,White,70000.0,27000.0,Los Angeles
+732,Honda,Civic,2016,Blue,nan miles,22000.0,New York
+733,Ford,Focus,2019,,50000.0,21000.0,Chicago
+734,CHEVROLET,Cruze,2019,Red,45000.0,26000.0,Miami
+735,Hyundai,Elantra,2016,,30000.0,29000.0,San Francisco
+736,Toyota,Corolla,2015,Gray,,27000.0,Dallas
+737,Honda,Accord,2017,White,55000.0,12000.0,Atlanta
+738,Ford,Mustang,2015,Yellow,50000.0,$15000.0,Phoenix
+739,Chevrolet,Impala,2016,,40000.0 km,17000.0,Houston
+740,Hyundai,Sonata,2018,Blue,60000.0 miles,14000.0,Seattle
+741,Toyota,Rav14,2017,,55000.0,12000.0,Los Angeles
+742,Honda,CR-V,2016,Red,,15000.0,New York
+743,Ford,Escape,2020,White,,17000.0,Chicago
+744,Chevrolet,Equinox,2020,Black,,14000.0,Miami
+745,Hyundai,Kona,2020,,70000.0,12000.0,San Francisco
+746,Toyota,highlander,2016,Silver,55000.0,15000.0,Dallas
+747,Honda,pilot,2020,Gray,50000.0,,Atlanta
+748,Ford,explorer,2020,White,40000.0,14000.0,Phoenix
+749,CHEVROLET,Traverse,2020,Black,nan miles,16000.0,Houston
+750,Hyundai,Santa Fe,2018,Red,35000.0,18000.0,Seattle
+751,Toyota,4Runner,2019,Silver,60000.0,$19000.0,Los Angeles
+752,Honda,odyssey,2017,,50000.0,,New York
+753,Ford,Edge,2015,Blue,40000.0,22000.0,Chicago
+754,Chevrolet,T@hoe,2016,Black,nan miles,25000.0,Miami
+755,Hyundai,Palisade,2019,Silver,70000.0,18000.0,San Francisco
+756,Toyota,Sienna,2016,,nan km,19000.0,Dallas
+757,Honda,Fit,2019,Gray,50000.0,17000.0,Atlanta
+758,Ford,Fusion,2015,,45000.0,16000.0,Phoenix
+759,Chevrolet,Malibu,2015,Blue,40000.0,18000.0,Houston
+760,Hyundai,Venue,2018,Silver,35000.0,20000.0,Seattle
+761,Toyota,Yaris,2015,Black,55000.0,19000.0,Los Angeles
+762,Honda,HR-V,Two Thousand 2016,White,50000.0,23000.0,New York
+763,Ford,EcoSport,2018,Red,40000.0,21000.0,Chicago
+764,Chevrolet,Spark,2019,Blue,,24000.0,Miami
+765,Hyundai,Accent,2018,Silver,,20000.0,San Francisco
+766,Toyota,Prius,2019,Gray,55000.0,22000.0,Dallas
+767,Honda,Civic,2015,,50000.0,24000.0,Atlanta
+768,Ford,Fiesta,2016,Blue,45000.0,23000.0,Phoenix
+769,Chevrolet,Cruze,2019,Black,40000.0,,Houston
+770,Hyundai,Elantra,2019,,35000.0 miles,25000.0,Seattle
+771,Toyota,Camry,2015,Silver,nan km,28000.0,Los Angeles
+772,Honda,Accord,2018,White,55000.0,290000.0,New York
+773,Ford,Mustang,2025,Blue,nan miles,,Chicago
+774,Chevrolet,Camaro,2017,Red,,26000.0,Miami
+775,Hyundai,Genesis,2016,Black,,29000.0,San Francisco
+776,Toyota,Av@lon,Two Thousand 2020,Silver,35000.0,27000.0,Dallas
+777,H0nda,Civic,2015,Gray,55000.0,12000.0,Atlanta
+778,Ford,Fusion,2016,White,50000.0,15000.0,Phoenix
+779,Chevrolet,Impala,2020,Blue,nan miles,,Houston
+780,Hyundai,Sonata,2015,Red,60000.0 miles,14000.0,Seattle
+781,Toyota,Corolla,2025,Silver,55000.0,12000.0,Los Angeles
+782,HONDA,CR-V,2017,White,45000.0,18000.0,New York
+783,Ford,Escape,Two Thousand 2015,,35000.0 km,,Chicago
+784,Chevrolet,Equinox,2019,Black,,14000.0,Miami
+785,Hyundai,Tucson,2015,,60000.0,12000.0,San Francisco
+786,TOYOTA,Rav14,2018,Gray,,15000.0,Dallas
+787,Honda,Pilot,2015,White,25000.0,19000.0,Atlanta
+788,Ford,Explorer,2016,Blue,30000.0,18000.0,Phoenix
+789,Chevrolet,Traverse,2018,,,22000.0,Houston
+790,Hyundai,Santa Fe,2018,Red,55000.0,,Seattle
+791,Toyota,4Runner,2015,Silver,50000.0,14000.0,Los Angeles
+792,Honda,Odyssey,2016,White,55000.0,19000.0,New York
+793,Ford,edge,1800,Blue,30000.0,23000.0,Chicago
+794,Chevrolet,tahoe,2019,Black,40000.0,21000.0,Miami
+795,Hyundai,Palisade,2015,Silver,45000.0,18000.0,San Francisco
+796,Toyota,Sienna,2018,Red,35000.0,20000.0,Dallas
+797,Honda,Fit,2015,Gray,60000.0,,Atlanta
+798,Ford,Fusion,2017,White,55000.0,24000.0,Phoenix
+799,CHEVROLET,Malibu,2017,Blue,50000.0,23000.0,Houston
+800,Hyundai,Venue,1800,Silver,nan miles,28000.0,Seattle
+801,Toyota,Yaris,2020,Black,40000.0,25000.0,Los Angeles
+802,Toyota,camry,2016,White,,27000.0,Los Angeles
+803,Honda,civic,2015,,55000.0 miles,22000.0,New York
+804,Toyota,Camry,2017,White,50000.0 km miles,,Los Angeles
+805,Honda,Civic,2018,,45000.0,26000.0,New York
+806,Ford,Focus,2018,Silver,,29000.0,Chicago
+807,Chevrolet,Cruze,2016,Red,35000.0,27000.0,Miami
+808,Hyundai,Elantra,2020,Black,,,San Francisco
+809,Toyota,Corolla,2017,,50000.0,15000.0,Dallas
+810,HONDA,Accord,2018,,40000.0,17000.0,Atlanta
+811,F0rd,Mustang,2020,Yellow,60000.0,14000.0,Phoenix
+812,Chevrolet,Impala,2016,Black,55000.0,12000.0,Houston
+813,Hyundai,Sonata,2019,Blue,50000.0 miles,,Seattle
+814,Toyota,Rav15,2016,Gray,40000.0,17000.0,Los Angeles
+815,Honda,CR-V,2015,Red,35000.0,14000.0,New York
+816,Ford,Escape,2016,White,70000.0,12000.0,Chicago
+817,CHEVROLET,Equinox,2019,Black,,15000.0,Miami
+818,Hyundai,Kona,2015,,50000.0,,San Francisco
+819,Toyota,Highlander,2019,,40000.0,,Dallas
+820,H0nda,Pilot,2015,Gray,45000.0 miles,290000.0,Atlanta
+821,Ford,explorer,2019,,35000.0,18000.0,Phoenix
+822,Chevrolet,Traverse,2020,Black,60000.0,19000.0,Houston
+823,Hyundai,santa fe,2017,Red,,18000.0,Seattle
+824,Toyota,4Runner,2025,Silver,40000.0,22000.0,Los Angeles
+825,Honda,Odyssey,2019,White,35000.0,25000.0,New York
+826,Ford,Edge,2020,Blue,70000.0,18000.0,Chicago
+827,Chevrolet,Tahoe,2018,Black,55000.0,19000.0,Miami
+828,Hyundai,Palisade,2015,Silver,nan miles,,San Francisco
+829,Toyota,Sienna,2016,Red,,16000.0,Dallas
+830,Honda,Fit,2016,Gray,,18000.0,Atlanta
+831,Ford,Fusion,2017,White,,20000.0,Phoenix
+832,Chevrolet,Malibu,2016,Blue,55000.0,,Houston
+833,Hyundai,venue,2019,Silver,50000.0,23000.0,Seattle
+834,Toyota,Y@ris,Two Thousand 2016,Black,,21000.0,Los Angeles
+835,Honda,HR-V,2020,White,35000.0,24000.0,New York
+836,Ford,EcoSport,2016,Red,70000.0,,Chicago
+837,Chevrolet,Spark,2019,Blue,55000.0,22000.0,Miami
+838,Hyundai,Accent,2020,,,24000.0,San Francisco
+839,Toyota,Prius,2018,Gray,45000.0,23000.0,Dallas
+840,Honda,Civic,2018,White,40000.0,27000.0,Atlanta
+841,Ford,Fiesta,2016,Blue,35000.0,25000.0,Phoenix
+842,CHEVROLET,Cruze,2020,Black,,28000.0,Houston
+843,Hyundai,Elantra,2016,Red,55000.0,,Seattle
+844,Toyota,Camry,2015,,50000.0 km,,Los Angeles
+845,Honda,Accord,2016,White,,$nan,New York
+846,Ford,Mustang,2017,Blue,30000.0,29000.0,Chicago
+847,Chevrolet,Camaro,2020,,35000.0,27000.0,Miami
+848,Hyundai,Genesis,2017,,,,San Francisco
+849,Toyota,Avalon,2020,Silver,nan miles,,Dallas
+850,HONDA,Civic,2018,,,17000.0,Atlanta
+851,Ford,Fusion,2019,White,60000.0,14000.0,Phoenix
+852,Chevrolet,Impala,2016,Blue,nan km,12000.0,Houston
+853,Hyundai,Sonata,2019,,,18000.0,Seattle
+854,Toyota,Corolla,2019,Silver,35000.0,,Los Angeles
+855,HONDA,CR-V,2017,White,55000.0,14000.0,New York
+856,FORD,Escape,2020,Blue,,,Chicago
+857,Chevrolet,equinox,2017,Black,40000.0,15000.0,Miami
+858,Hyundai,Tucson,2016,Red,,19000.0,San Francisco
+859,TOYOTA,Rav15,2017,Gray,,$18000.0,Dallas
+860,Honda,Pilot,2019,White,65000.0,22000.0,Atlanta
+861,Ford,Explorer,2016,Blue,,16000.0,Phoenix
+862,Chevrolet,Traverse,2017,,50000.0,14000.0,Houston
+863,Hyundai,santa fe,2018,,55000.0,19000.0,Seattle
+864,Toyota,4Runner,2018,Silver,30000.0,23000.0,Los Angeles
+865,Honda,odyssey,2016,White,40000.0,21000.0,New York
+866,F0rd,Edge,2019,,,,Chicago
+867,CHEVROLET,Tahoe,2016,,35000.0,20000.0,Miami
+868,Hyundai,Palisade,2016,Silver,60000.0,25000.0,San Francisco
+869,Toyota,Sienna,2015,Red,55000.0,24000.0,Dallas
+870,Honda,Fit,2020,Gray,50000.0,23000.0,Atlanta
+871,FORD,Fusion,2015,,35000.0,$nan,Phoenix
+872,Chevrolet,malibu,2015,Blue,40000.0,25000.0,Houston
+873,HYUNDAI,Venue,2019,Silver,,$nan,Seattle
+874,T0y0ta,Yaris,2015,Black,55000.0,,Los Angeles
+875,Toyota,Camry,2017,White,50000.0,21000.0,Los Angeles
+876,H0nda,civic,2018,Blue,45000.0,,New York
+877,Toyota,camry,2018,White,30000.0,29000.0,Los Angeles
+878,Honda,Civic,2015,Blue,,27000.0,New York
+879,Ford,Focus,2017,Silver,nan miles,12000.0,Chicago
+880,Chevrolet,Cruze,2018,Red,50000.0,15000.0,Miami
+881,Hyundai,Elantra,2020,,,17000.0,San Francisco
+882,TOYOTA,Corolla,2019,Gray,60000.0,14000.0,Dallas
+883,Honda,Accord,2019,White,55000.0,12000.0,Atlanta
+884,Ford,Mustang,2015,Yellow,50000.0,15000.0,Phoenix
+885,Chevrolet,Impala,2020,Black,,17000.0,Houston
+886,Hyundai,Sonata,2017,Blue,,,Seattle
+887,Toyota,Rav16,2020,,,$nan,Los Angeles
+888,Honda,CR-V,2016,Red,55000.0 miles,,New York
+889,Ford,Escape,2019,,50000.0,17000.0,Chicago
+890,Chevrolet,Equinox,2020,,40000.0,,Miami
+891,Hyundai,Kona,2015,Blue,45000.0,16000.0,San Francisco
+892,Toyota,Highlander,2015,,35000.0,,Dallas
+893,Honda,Pilot,2017,,60000.0 miles,19000.0,Atlanta
+894,FORD,explorer,Two Thousand 2020,White,50000.0,18000.0,Phoenix
+895,Chevrolet,Traverse,2018,Black,40000.0,22000.0,Houston
+896,Hyundai,Santa Fe,2017,,,,Seattle
+897,TOYOTA,4Runner,2020,Silver,70000.0 miles,18000.0,Los Angeles
+898,Honda,Odyssey,2017,White,55000.0,19000.0,New York
+899,Ford,Edge,2019,Blue,50000.0,17000.0,Chicago
+900,Chevrolet,tahoe,2015,Black,,16000.0,Miami
+901,Hyundai,Palisade,2016,Silver,40000.0 miles,18000.0,San Francisco
+902,Toyota,Sienna,2020,Red,35000.0,,Dallas
+903,H0nda,Fit,2015,Gray,55000.0,19000.0,Atlanta
+904,Ford,Fusion,2017,White,50000.0,23000.0,Phoenix
+905,Chevrolet,Malibu,2019,Blue,40000.0,21000.0,Houston
+906,Hyundai,Venue,2020,Silver,35000.0,24000.0,Seattle
+907,Toyota,Yaris,2016,Black,,20000.0,Los Angeles
+908,Honda,HR-V,2019,,,,New York
+909,F0rd,EcoSport,2020,,50000.0,24000.0,Chicago
+910,Chevrolet,Sp@rk,2019,Blue,45000.0,23000.0,Miami
+911,Hyundai,Accent,2019,Silver,40000.0,27000.0,San Francisco
+912,Toyota,Prius,2018,Gray,35000.0,25000.0,Dallas
+913,Honda,Civic,2019,,70000.0 miles,28000.0,Atlanta
+914,FORD,Fiesta,2016,,55000.0,22000.0,Phoenix
+915,CHEVROLET,Cruze,2017,Black,nan miles,21000.0,Houston
+916,HYUNDAI,Elantra,2019,,45000.0,290000.0,Seattle
+917,Toyota,Camry,2019,,nan miles,,Los Angeles
+918,Honda,Accord,2020,White,35000.0,27000.0,New York
+919,Ford,Mustang,2015,Blue,55000.0,12000.0,Chicago
+920,Chevrolet,Camaro,2017,Red,50000.0,15000.0,Miami
+921,Hyundai,Genesis,2020,Black,40000.0,17000.0,San Francisco
+922,TOYOTA,Avalon,2019,Silver,60000.0,,Dallas
+923,Honda,Civic,2018,Gray,,12000.0,Atlanta
+924,Ford,Fusion,2015,White,nan km,18000.0,Phoenix
+925,Chevrolet,Impala,2016,Blue,35000.0,16000.0,Houston
+926,Hyundai,Sonata,2019,Red,55000.0,14000.0,Seattle
+927,T0y0ta,corolla,2019,Silver,10,12000.0,Los Angeles
+928,H0nda,cr-v,2020,White,40000.0,15000.0,New York
+929,Ford,Escape,2018,Blue,25000.0,,Chicago
+930,Chevrolet,Equinox,2015,Black,30000.0,,Miami
+931,Hyundai,Tucson,2019,Red,65000.0,,San Francisco
+932,Toyota,Rav16,2020,Gray,55000.0,16000.0,Dallas
+933,Honda,Pilot,2020,White,50000.0,14000.0,Atlanta
+934,Ford,Explorer,2020,Blue,55000.0,,Phoenix
+935,Chevrolet,Traverse,2019,Black,30000.0 miles,23000.0,Houston
+936,Hyundai,Santa Fe,2020,Red,40000.0 miles,21000.0,Seattle
+937,Toyota,4Runner,2017,Silver,45000.0,18000.0,Los Angeles
+938,Honda,Odyssey,2018,,35000.0,$290000.0,New York
+939,Ford,Edge,1800,Blue,60000.0,25000.0,Chicago
+940,Chevrolet,tahoe,2020,,55000.0,,Miami
+941,Hyundai,Palisade,2018,Silver,50000.0,23000.0,San Francisco
+942,Toyota,Sienna,2020,Red,,28000.0,Dallas
+943,Honda,Fit,2019,,,25000.0,Atlanta
+944,Ford,Fusion,2020,White,70000.0,27000.0,Phoenix
+945,Chevrolet,Malibu,2015,Blue,55000.0,22000.0,Houston
+946,Hyundai,venue,2018,Silver,50000.0,100,Seattle
+947,TOYOTA,Yaris,2015,Black,,,Los Angeles
+948,Toyota,Camry,2017,White,30000.0,29000.0,Los Angeles
+949,Honda,Civic,2018,Blue,,,New York
+950,Toyota,Camry,2019,White,55000.0 miles,,Los Angeles
+951,Honda,Civic,2016,Blue,0.0,15000.0,New York
+952,FORD,focus,2015,Silver,40000.0,17000.0,Chicago
+953,Chevrolet,Cruze,2019,Red,60000.0,,Miami
+954,Hyundai,Elantra,Two Thousand 2015,,55000.0,12000.0,San Francisco
+955,Toyota,Corolla,2019,,50000.0,15000.0,Dallas
+956,Honda,Accord,2015,White,,17000.0,Atlanta
+957,F0rd,Mustang,2020,Yellow,35000.0,14000.0,Phoenix
+958,Chevrolet,Impala,2017,Black,70000.0,,Houston
+959,Hyundai,Sonata,Two Thousand 2020,,55000.0,15000.0,Seattle
+960,TOYOTA,R@v17,2015,,nan miles,,Los Angeles
+961,Honda,CR-V,2015,Red,40000.0,100,New York
+962,Ford,Escape,2019,,45000.0,,Chicago
+963,Chevrolet,Equinox,2017,Black,,18000.0,Miami
+964,Hyundai,Kona,2018,Blue,60000.0,19000.0,San Francisco
+965,Toyota,Highlander,2025,Silver,50000.0,18000.0,Dallas
+966,HONDA,Pilot,2019,Gray,40000.0,22000.0,Atlanta
+967,Ford,Explorer,2019,White,10,,Phoenix
+968,Chevrolet,Traverse,2018,Black,,18000.0,Houston
+969,HYUNDAI,Santa Fe,2018,,55000.0,19000.0,Seattle
+970,Toyota,4Runner,2020,Silver,50000.0,17000.0,Los Angeles
+971,Honda,Odyssey,2017,White,45000.0 miles,16000.0,New York
+972,Ford,Edge,2017,Blue,40000.0,18000.0,Chicago
+973,Chevrolet,Tahoe,2016,Black,,20000.0,Miami
+974,Hyundai,Palisade,2017,Silver,55000.0,19000.0,San Francisco
+975,T0y0ta,Sienna,2017,Red,50000.0,23000.0,Dallas
+976,Honda,Fit,2019,,40000.0,21000.0,Atlanta
+977,Ford,Fusion,2019,,,24000.0,Phoenix
+978,Chevrolet,malibu,2018,Blue,70000.0,20000.0,Houston
+979,Hyundai,venue,2015,,55000.0,,Seattle
+980,Toyota,Yaris,2019,Black,50000.0 km,24000.0,Los Angeles
+981,Honda,HR-V,2017,White,45000.0,23000.0,New York
+982,Ford,EcoSport,2015,Red,40000.0,27000.0,Chicago
+983,Chevrolet,Spark,2018,Blue,,25000.0,Miami
+984,Hyundai,Accent,2020,Silver,,$nan,San Francisco
+985,Toyota,Prius,2019,Gray,55000.0,22000.0,Dallas
+986,Honda,Civic,2016,White,50000.0 miles,$21000.0,Atlanta
+987,Ford,Fiesta,2017,Blue,,,Phoenix
+988,Chevrolet,Cruze,2018,Black,,29000.0,Houston
+989,Hyundai,Elantra,2019,Red,35000.0,,Seattle
+990,Toyota,Camry,2017,Silver,55000.0,,Los Angeles
+991,Honda,Accord,2019,White,,,New York
+992,FORD,Mustang,2016,,40000.0,17000.0,Chicago
+993,Chevrolet,Camaro,2019,,60000.0,,Miami
+994,HYUNDAI,Genesis,2019,Black,10 miles,12000.0,San Francisco
+995,Toyota,Avalon,2016,Silver,45000.0,18000.0,Dallas
+996,Honda,Civic,2020,Gray,35000.0,,Atlanta
+997,Ford,Fusion,2018,,55000.0,14000.0,Phoenix
+998,Chevrolet,Impala,2016,Blue,nan miles,12000.0,Houston
+999,Hyundai,Sonata,2020,Red,,15000.0,Seattle
+1000,Toyota,corolla,2017,,25000.0,19000.0,Los Angeles
+1001,Honda,CR-V,2020,,30000.0,18000.0,New York
+1002,Ford,Escape,2016,Blue,65000.0,22000.0,Chicago
+1003,Chevrolet,Equinox,2018,Black,55000.0,16000.0,Miami
+1004,Hyundai,Tucson,2020,,50000.0 miles,14000.0,San Francisco
+1005,Toyota,Rav17,2016,Gray,55000.0,19000.0,Dallas
+1006,Honda,Pilot,2015,,,,Atlanta
+1007,Ford,Explorer,2017,,40000.0,21000.0,Phoenix
+1008,Chevrolet,Traverse,2018,Black,,18000.0,Houston
+1009,HYUNDAI,Santa Fe,2017,Red,35000.0,20000.0,Seattle
+1010,Toyota,4Runner,2015,,60000.0,25000.0,Los Angeles
+1011,Honda,Odyssey,2016,White,55000.0 miles,,New York
+1012,Ford,Edge,Two Thousand 2020,Blue,50000.0,23000.0,Chicago
+1013,Chevrolet,tahoe,2020,Black,35000.0,28000.0,Miami
+1014,Hyundai,Palisade,2017,Silver,40000.0,25000.0,San Francisco
+1015,Toyota,Sienna,2016,Red,70000.0,27000.0,Dallas
+1016,Honda,Fit,2018,Gray,0.0,$22000.0,Atlanta
+1017,Ford,Fusion,2016,White,,21000.0,Phoenix
+1018,Chevrolet,Malibu,2019,,45000.0,26000.0,Houston
+1019,Hyundai,Venue,2017,Silver,,29000.0,Seattle
+1020,Toyota,Yaris,2017,Black,35000.0,27000.0,Los Angeles
+1021,TOYOTA,Camry,2019,White,55000.0,12000.0,Los Angeles
+1022,Honda,Civic,2020,Blue,,,New York
+1023,Toyota,Camry,2016,White,40000.0,17000.0,Los Angeles
+1024,Honda,Civic,2017,Blue,60000.0,14000.0,New York
+1025,Ford,focus,2018,Silver,,12000.0,Chicago
+1026,Chevrolet,Cruze,2016,Red,50000.0,15000.0,Miami
+1027,Hyundai,elantra,2015,Black,40000.0,17000.0,San Francisco
+1028,Toyota,Corolla,2015,,35000.0,14000.0,Dallas
+1029,Honda,Accord,2017,,70000.0 km,$nan,Atlanta
+1030,Ford,Mustang,2018,,,,Phoenix
+1031,CHEVROLET,Impala,2017,Black,,17000.0,Houston
+1032,HYUNDAI,Sonata,2016,Blue,40000.0,100,Seattle
+1033,Toyota,Rav18,2015,Gray,45000.0 miles,16000.0,Los Angeles
+1034,Honda,cr-v,2015,,35000.0,,New York
+1035,Ford,Escape,2019,White,nan km,19000.0,Chicago
+1036,Chevrolet,Equinox,2018,Black,,18000.0,Miami
+1037,Hyundai,Kona,2015,Blue,40000.0,22000.0,San Francisco
+1038,Toyota,Highlander,2020,,35000.0,,Dallas
+1039,Honda,Pilot,2016,Gray,70000.0 km miles,18000.0,Atlanta
+1040,Ford,Explorer,2017,White,,,Phoenix
+1041,Chevrolet,Traverse,2018,,50000.0,,Houston
+1042,Hyundai,Santa Fe,2019,Red,45000.0,,Seattle
+1043,Toyota,4runner,2020,Silver,40000.0,18000.0,Los Angeles
+1044,Honda,Odyssey,Two Thousand 2015,,35000.0,20000.0,New York
+1045,FORD,Edge,2015,Blue,55000.0,19000.0,Chicago
+1046,Chevrolet,Tahoe,2015,Black,50000.0,23000.0,Miami
+1047,Hyundai,Palisade,2016,,40000.0,,San Francisco
+1048,Toyota,Sienna,2015,Red,35000.0,24000.0,Dallas
+1049,Honda,Fit,Two Thousand 2016,Gray,70000.0,20000.0,Atlanta
+1050,Ford,Fusion,2016,,55000.0,22000.0,Phoenix
+1051,Chevrolet,Malibu,2017,Blue,50000.0,24000.0,Houston
+1052,Hyundai,Venue,2019,Silver,45000.0,23000.0,Seattle
+1053,Toyota,Y@ris,2019,,,$27000.0,Los Angeles
+1054,Honda,HR-V,2019,,35000.0,25000.0,New York
+1055,Ford,EcoSport,2016,Red,70000.0,,Chicago
+1056,Chevrolet,Spark,2016,,55000.0,$22000.0,Miami
+1057,Hyundai,Accent,2015,Silver,50000.0,21000.0,San Francisco
+1058,Toyota,prius,2018,Gray,45000.0,26000.0,Dallas
+1059,Honda,Civic,2018,,,29000.0,Atlanta
+1060,Ford,Fiesta,2015,Blue,35000.0,,Phoenix
+1061,Chevrolet,Cruze,2018,Black,,12000.0,Houston
+1062,Hyundai,Elantra,2018,Red,50000.0,15000.0,Seattle
+1063,Toyota,Camry,Two Thousand 2015,Silver,,17000.0,Los Angeles
+1064,Honda,Accord,2018,White,60000.0,14000.0,New York
+1065,Ford,Mustang,2016,,55000.0,12000.0,Chicago
+1066,Chevrolet,C@m@ro,2015,Red,45000.0,18000.0,Miami
+1067,Hyundai,Genesis,2019,Black,35000.0,16000.0,San Francisco
+1068,Toyota,Avalon,2020,Silver,55000.0,14000.0,Dallas
+1069,Honda,Civic,2015,Gray,,12000.0,Atlanta
+1070,Ford,Fusion,2017,,nan miles,,Phoenix
+1071,Chevrolet,Imp@l@,2015,Blue,,19000.0,Houston
+1072,Hyundai,Sonata,2017,Red,30000.0,,Seattle
+1073,Toyota,Corolla,2015,Silver,65000.0,,Los Angeles
+1074,Honda,CR-V,2019,White,55000.0,,New York
+1075,Ford,Escape,2017,Blue,50000.0,14000.0,Chicago
+1076,Chevrolet,Equinox,2019,Black,55000.0,19000.0,Miami
+1077,Hyundai,tucson,2019,Red,30000.0,,San Francisco
+1078,Toyota,Rav18,2015,,40000.0,21000.0,Dallas
+1079,Honda,Pilot,2020,White,,$18000.0,Atlanta
+1080,Ford,Explorer,2018,Blue,,,Phoenix
+1081,Chevrolet,traverse,2020,,60000.0 miles,25000.0,Houston
+1082,Hyundai,Santa Fe,2019,Red,55000.0,24000.0,Seattle
+1083,Toyota,4Runner,2017,Silver,50000.0,23000.0,Los Angeles
+1084,Honda,Odyssey,Two Thousand 2016,White,35000.0,28000.0,New York
+1085,F0rd,Edge,2020,Blue,,25000.0,Chicago
+1086,Chevr0let,Tahoe,2020,Black,70000.0,,Miami
+1087,Hyundai,Palisade,2018,,55000.0,$22000.0,San Francisco
+1088,Toyota,Sienna,2017,Red,0.0 miles,21000.0,Dallas
+1089,Honda,Fit,2019,Gray,45000.0,26000.0,Atlanta
+1090,FORD,Fusion,2015,White,30000.0,29000.0,Phoenix
+1091,Chevrolet,Malibu,2015,,35000.0,27000.0,Houston
+1092,Hyundai,Venue,2018,Silver,,12000.0,Seattle
+1093,Toyota,Yaris,2017,Black,,,Los Angeles
+1094,Toyota,Camry,2020,White,40000.0,$nan,Los Angeles
+1095,Honda,Civic,2015,Blue,60000.0,14000.0,New York
+1096,Toyota,Camry,2018,White,,12000.0,Los Angeles
+1097,Honda,Civic,2020,Blue,nan miles,,New York
+1098,Ford,Focus,2019,Silver,40000.0,17000.0,Chicago
+1099,Chevrolet,Cruze,2017,Red,,14000.0,Miami
+1100,Hyundai,Elantra,2018,Black,70000.0,12000.0,San Francisco
+1101,Toyota,Corolla,2017,Gray,55000.0,15000.0,Dallas
+1102,Honda,Accord,2015,White,50000.0,17000.0,Atlanta
+1103,F0rd,Must@ng,2019,Yellow,40000.0,14000.0,Phoenix
+1104,Chevrolet,Impala,2016,,10,,Houston
+1105,Hyundai,Sonata,2019,,35000.0,18000.0,Seattle
+1106,T0y0ta,Rav19,2018,,,$nan,Los Angeles
+1107,Honda,CR-V,2017,Red,,18000.0,New York
+1108,FORD,Escape,2020,,40000.0,,Chicago
+1109,Chevrolet,Equinox,2019,Black,35000.0,25000.0,Miami
+1110,Hyundai,Kon@,2016,Blue,70000.0 km,18000.0,San Francisco
+1111,TOYOTA,Highl@nder,2015,Silver,55000.0,290000.0,Dallas
+1112,Honda,Pilot,2015,Gray,50000.0,,Atlanta
+1113,Ford,Explorer,Two Thousand 2018,White,,16000.0,Phoenix
+1114,Chevrolet,traverse,2016,Black,40000.0,,Houston
+1115,Hyundai,santa fe,2018,Red,35000.0,20000.0,Seattle
+1116,Toyota,4Runner,2016,Silver,55000.0,19000.0,Los Angeles
+1117,Honda,Odyssey,2015,,50000.0,,New York
+1118,Ford,Edge,2017,Blue,40000.0,,Chicago
+1119,CHEVROLET,Tahoe,Two Thousand 2019,Black,35000.0,24000.0,Miami
+1120,Hyundai,Palisade,2018,,70000.0,20000.0,San Francisco
+1121,Toyota,Sienna,2018,Red,55000.0,22000.0,Dallas
+1122,Honda,Fit,2019,,50000.0,24000.0,Atlanta
+1123,Ford,Fusion,2016,White,45000.0,23000.0,Phoenix
+1124,Chevrolet,Malibu,2015,Blue,40000.0,,Houston
+1125,Hyundai,Venue,2018,Silver,35000.0,$25000.0,Seattle
+1126,Toyota,Yaris,2017,Black,70000.0,28000.0,Los Angeles
+1127,Honda,HR-V,2015,White,55000.0,22000.0,New York
+1128,Ford,EcoSport,2017,,50000.0,21000.0,Chicago
+1129,Chevrolet,Spark,2017,,,26000.0,Miami
+1130,Hyundai,Accent,Two Thousand 2016,,,29000.0,San Francisco
+1131,Toyota,Prius,2017,Gray,35000.0,27000.0,Dallas
+1132,HONDA,Civic,2019,White,10,,Atlanta
+1133,Ford,Fiesta,2019,Blue,,$15000.0,Phoenix
+1134,Chevrolet,Cruze,2016,,,17000.0,Houston
+1135,Hyundai,El@ntr@,2020,,60000.0,14000.0,Seattle
+1136,Toyota,camry,2018,Silver,55000.0,12000.0,Los Angeles
+1137,HONDA,Accord,2017,White,,18000.0,New York
+1138,Ford,Mustang,2016,Blue,35000.0 km,,Chicago
+1139,Chevrolet,Camaro,2019,Red,,14000.0,Miami
+1140,Hyundai,Genesis,2018,Black,,12000.0,San Francisco
+1141,Toyota,avalon,2017,Silver,40000.0,15000.0,Dallas
+1142,Honda,Civic,2016,,25000.0,19000.0,Atlanta
+1143,F0rd,Fusion,2017,,30000.0,,Phoenix
+1144,CHEVROLET,Impala,2019,Blue,65000.0,22000.0,Houston
+1145,HYUNDAI,Sonata,2018,Red,55000.0,16000.0,Seattle
+1146,T0y0ta,Corolla,2020,Silver,50000.0,14000.0,Los Angeles
+1147,HONDA,CR-V,2020,White,,,New York
+1148,Ford,Escape,2018,Blue,30000.0,23000.0,Chicago
+1149,Chevrolet,Equinox,2015,Black,40000.0,21000.0,Miami
+1150,Hyundai,Tucson,2019,Red,45000.0,18000.0,San Francisco
+1151,Toyota,Rav19,2019,Gray,35000.0 miles,100,Dallas
+1152,HONDA,Pilot,2018,White,60000.0,25000.0,Atlanta
+1153,Ford,Explorer,2015,Blue,,,Phoenix
+1154,Chevrolet,Traverse,2020,,50000.0,23000.0,Houston
+1155,Hyundai,Santa Fe,2018,Red,35000.0 miles,,Seattle
+1156,TOYOTA,4runner,2017,Silver,40000.0 km,25000.0,Los Angeles
+1157,Honda,Odyssey,2015,White,70000.0,,New York
+1158,FORD,Edge,2020,Blue,55000.0,22000.0,Chicago
+1159,Chevrolet,tahoe,2019,Black,50000.0,21000.0,Miami
+1160,Hyundai,Palisade,2017,,45000.0,26000.0,San Francisco
+1161,Toyota,Sienna,2019,Red,30000.0,,Dallas
+1162,Honda,Fit,2015,Gray,35000.0 miles,27000.0,Atlanta
+1163,FORD,fusion,2016,White,55000.0,,Phoenix
+1164,Chevrolet,Malibu,2016,Blue,,15000.0,Houston
+1165,Hyundai,Venue,2017,Silver,40000.0,17000.0,Seattle
+1166,Toyota,Yaris,2016,,60000.0,100,Los Angeles
+1167,Toyota,Camry,2016,White,,12000.0,Los Angeles
+1168,Honda,Civic,2020,Blue,50000.0,15000.0,New York
+1169,Toyota,camry,2019,White,40000.0 miles,,Los Angeles
+1170,Honda,Civic,2016,,,14000.0,New York
+1171,Ford,Focus,2017,Silver,,12000.0,Chicago
+1172,Chevrolet,Cruze,2020,Red,55000.0,15000.0,Miami
+1173,Hyundai,Elantra,2016,Black,50000.0,17000.0,San Francisco
+1174,Toyota,Corolla,2019,Gray,,,Dallas
+1175,Honda,Accord,2015,,45000.0,16000.0,Atlanta
+1176,Ford,Mustang,2018,,,18000.0,Phoenix
+1177,Chevrolet,Impala,2015,Black,60000.0,19000.0,Houston
+1178,Hyundai,Sonata,2018,,,18000.0,Seattle
+1179,Toyota,Rav20,2020,,,22000.0,Los Angeles
+1180,Honda,CR-V,2016,Red,35000.0,25000.0,New York
+1181,FORD,Escape,2015,,nan km,18000.0,Chicago
+1182,Chevrolet,Equinox,2020,Black,55000.0,19000.0,Miami
+1183,Hyundai,Kona,2016,Blue,,,San Francisco
+1184,T0y0ta,Highlander,2017,Silver,45000.0,,Dallas
+1185,Honda,Pilot,2019,,40000.0 km,18000.0,Atlanta
+1186,Ford,Explorer,2017,White,35000.0,,Phoenix
+1187,Chevrolet,Traverse,2019,Black,55000.0,19000.0,Houston
+1188,Hyundai,s@nt@ fe,2019,Red,50000.0,,Seattle
+1189,Toyota,4Runner,2020,Silver,10,21000.0,Los Angeles
+1190,Honda,Odyssey,2015,,35000.0,,New York
+1191,Ford,Edge,2018,Blue,70000.0,20000.0,Chicago
+1192,Chevrolet,Tahoe,2017,Black,nan miles,22000.0,Miami
+1193,Hyundai,Palisade,2016,,50000.0,,San Francisco
+1194,Toyota,Sienna,2020,Red,45000.0 miles,,Dallas
+1195,Honda,fit,2019,Gray,40000.0,27000.0,Atlanta
+1196,Ford,Fusion,2015,,35000.0,25000.0,Phoenix
+1197,Chevrolet,Malibu,2017,Blue,70000.0,,Houston
+1198,Hyundai,Venue,2018,Silver,55000.0,22000.0,Seattle
+1199,Toyota,Yaris,2016,Black,,21000.0,Los Angeles
+1200,HONDA,HR-V,2019,White,,26000.0,New York
+1201,F0rd,EcoSport,2020,Red,30000.0,29000.0,Chicago
+1202,Chevrolet,Spark,2017,,35000.0,,Miami
+1203,Hyundai,Accent,2017,,55000.0 miles,12000.0,San Francisco
+1204,Toyota,Prius,2020,Gray,50000.0,15000.0,Dallas
+1205,Honda,Civic,2018,White,40000.0,17000.0,Atlanta
+1206,Ford,Fiesta,2015,Blue,60000.0 miles,14000.0,Phoenix
+1207,Chevrolet,Cruze,2020,Black,55000.0,12000.0,Houston
+1208,Hyundai,Elantra,2017,,45000.0,18000.0,Seattle
+1209,Toyota,Camry,2016,Silver,35000.0,16000.0,Los Angeles
+1210,Honda,Accord,2016,White,55000.0,,New York
+1211,Ford,Mustang,2020,,,12000.0,Chicago
+1212,Chevrolet,Camaro,2020,,40000.0 km,15000.0,Miami
+1213,Hyundai,Genesis,2020,Black,25000.0,19000.0,San Francisco
+1214,Toyota,Avalon,2016,,30000.0,18000.0,Dallas
+1215,Honda,Civic,2016,Gray,65000.0 miles,,Atlanta
+1216,Ford,Fusion,2018,White,,16000.0,Phoenix
+1217,Chevrolet,Impala,2018,Blue,50000.0,14000.0,Houston
+1218,HYUNDAI,Sonata,2017,Red,55000.0 miles,,Seattle
+1219,T0y0ta,Corolla,2018,Silver,30000.0,23000.0,Los Angeles
+1220,Honda,CR-V,Two Thousand 2018,,40000.0,21000.0,New York
+1221,Ford,Escape,2017,Blue,,,Chicago
+1222,Chevrolet,equinox,2018,,,20000.0,Miami
+1223,Hyundai,tucson,2017,Red,60000.0,25000.0,San Francisco
+1224,Toyota,Rav20,2015,,55000.0,24000.0,Dallas
+1225,Honda,Pilot,2018,White,50000.0,$23000.0,Atlanta
+1226,Ford,Explorer,2015,Blue,35000.0 miles,28000.0,Phoenix
+1227,Chevrolet,Traverse,2020,Black,40000.0,25000.0,Houston
+1228,Hyundai,Santa Fe,2020,Red,70000.0,$27000.0,Seattle
+1229,Toyota,4Runner,2017,Silver,55000.0,22000.0,Los Angeles
+1230,Honda,Odyssey,2017,White,50000.0,21000.0,New York
+1231,Ford,Edge,2018,Blue,45000.0,26000.0,Chicago
+1232,Chevrolet,Tahoe,2019,Black,30000.0,29000.0,Miami
+1233,Hyundai,Palisade,2019,Silver,35000.0,27000.0,San Francisco
+1234,TOYOTA,Sienna,2016,Red,,12000.0,Dallas
+1235,Honda,fit,2015,Gray,nan km,15000.0,Atlanta
+1236,Ford,Fusion,2020,White,40000.0,,Phoenix
+1237,Chevrolet,Malibu,2015,Blue,60000.0,14000.0,Houston
+1238,Hyundai,Venue,2017,Silver,55000.0,,Seattle
+1239,Toyota,Yaris,Two Thousand 2018,Black,,15000.0,Los Angeles
+1240,Toyota,Camry,2017,White,40000.0,17000.0,Los Angeles
+1241,Honda,Civic,2025,Blue,35000.0,14000.0,New York
+1242,T0y0ta,Camry,2020,White,70000.0 miles,$nan,Los Angeles
+1243,Honda,Civic,2018,,55000.0 miles,15000.0,New York
+1244,Ford,Focus,2018,Silver,50000.0,,Chicago
+1245,Chevrolet,cruze,2020,,10,,Miami
+1246,Hyundai,Elantra,2020,,45000.0,$16000.0,San Francisco
+1247,Toyota,Corolla,2025,Gray,35000.0,18000.0,Dallas
+1248,Honda,Accord,2017,White,60000.0,19000.0,Atlanta
+1249,Ford,Mustang,2015,Yellow,50000.0,,Phoenix
+1250,Chevrolet,Impala,2018,Black,,22000.0,Houston
+1251,Hyundai,Sonata,2017,,,25000.0,Seattle
+1252,Toyota,Rav21,2019,Gray,70000.0 km,18000.0,Los Angeles
+1253,Honda,cr-v,2018,Red,nan miles,,New York
+1254,Ford,Escape,2016,White,50000.0,17000.0,Chicago
+1255,Chevrolet,Equinox,2015,Black,45000.0,16000.0,Miami
+1256,Hyundai,kona,Two Thousand 2017,Blue,,18000.0,San Francisco
+1257,Toyota,Highlander,2017,Silver,35000.0,20000.0,Dallas
+1258,Honda,pilot,Two Thousand 2017,,55000.0 miles,19000.0,Atlanta
+1259,Ford,Explorer,2016,White,50000.0,23000.0,Phoenix
+1260,Chevrolet,Traverse,2015,Black,40000.0,21000.0,Houston
+1261,HYUNDAI,Santa Fe,2018,Red,,,Seattle
+1262,Toyota,4Runner,2016,Silver,70000.0,20000.0,Los Angeles
+1263,Honda,odyssey,2020,,55000.0,,New York
+1264,Ford,Edge,2018,Blue,nan miles,24000.0,Chicago
+1265,Chevrolet,Tahoe,2015,Black,45000.0,23000.0,Miami
+1266,Hyundai,palisade,2019,Silver,40000.0,27000.0,San Francisco
+1267,Toyota,Sienna,2018,Red,,25000.0,Dallas
+1268,Honda,Fit,2016,Gray,70000.0,28000.0,Atlanta
+1269,F0rd,fusion,2018,White,55000.0,22000.0,Phoenix
+1270,Chevrolet,Malibu,2019,Blue,50000.0,21000.0,Houston
+1271,Hyundai,Venue,2020,Silver,45000.0,26000.0,Seattle
+1272,Toyota,Yaris,2015,,30000.0,29000.0,Los Angeles
+1273,Honda,HR-V,2020,White,35000.0,27000.0,New York
+1274,Ford,EcoSport,2017,Red,0.0 miles,12000.0,Chicago
+1275,Chevrolet,spark,2015,Blue,50000.0,15000.0,Miami
+1276,Hyundai,Accent,2018,,40000.0,17000.0,San Francisco
+1277,Toyota,Prius,2016,Gray,,14000.0,Dallas
+1278,HONDA,Civic,2016,White,55000.0,12000.0,Atlanta
+1279,FORD,Fiesta,2018,Blue,,18000.0,Phoenix
+1280,Chevrolet,Cruze,2016,Black,35000.0,16000.0,Houston
+1281,Hyundai,Elantra,2016,Red,55000.0 km,14000.0,Seattle
+1282,Toyota,camry,2015,,60000.0 miles,12000.0,Los Angeles
+1283,Honda,Accord,2018,White,40000.0,,New York
+1284,Ford,Mustang,2015,,25000.0,,Chicago
+1285,Chevrolet,Camaro,2015,Red,,18000.0,Miami
+1286,Hyundai,Genesis,2019,,,100,San Francisco
+1287,Toyota,Avalon,2020,Silver,55000.0,16000.0,Dallas
+1288,H0nda,Civic,2019,Gray,50000.0 km,,Atlanta
+1289,Ford,fusion,2015,White,55000.0,19000.0,Phoenix
+1290,Chevrolet,impala,2019,,30000.0 miles,,Houston
+1291,Hyundai,Sonata,2018,Red,40000.0,,Seattle
+1292,Toyota,Corolla,2018,Silver,45000.0,18000.0,Los Angeles
+1293,Honda,CR-V,2019,White,35000.0,20000.0,New York
+1294,Ford,Escape,2020,,60000.0,25000.0,Chicago
+1295,Chevrolet,Equinox,2020,Black,55000.0,24000.0,Miami
+1296,Hyundai,Tucson,2019,Red,50000.0,23000.0,San Francisco
+1297,TOYOTA,Rav21,2019,Gray,35000.0,28000.0,Dallas
+1298,Honda,Pilot,2015,White,40000.0,25000.0,Atlanta
+1299,Ford,Explorer,2016,Blue,,,Phoenix
+1300,Chevrolet,Traverse,2020,Black,,22000.0,Houston
+1301,Hyundai,Santa Fe,2018,,50000.0,,Seattle
+1302,Toyota,4Runner,2015,Silver,45000.0,,Los Angeles
+1303,Honda,Odyssey,2015,,30000.0 km,29000.0,New York
+1304,Ford,Edge,2015,Blue,,27000.0,Chicago
+1305,Chevrolet,Tahoe,2020,Black,55000.0 miles,,Miami
+1306,Hyundai,Palisade,2018,Silver,50000.0,,San Francisco
+1307,T0y0ta,Sienna,2019,Red,40000.0,,Dallas
+1308,Honda,Fit,2018,Gray,60000.0,14000.0,Atlanta
+1309,Ford,Fusion,2019,,55000.0 km,12000.0,Phoenix
+1310,Chevrolet,Malibu,2017,,50000.0,15000.0,Houston
+1311,Hyundai,Venue,2020,Silver,40000.0,17000.0,Seattle
+1312,Toyota,Yaris,2019,Black,35000.0 km,14000.0,Los Angeles
+1313,Toyota,Camry,2015,White,70000.0,12000.0,Los Angeles
+1314,HONDA,Civic,2019,Blue,55000.0,15000.0,New York
+1315,Toyota,Camry,2020,,,17000.0,Los Angeles
+1316,HONDA,Civic,2015,Blue,40000.0,,New York
+1317,Ford,Focus,2017,Silver,45000.0,16000.0,Chicago
+1318,Chevrolet,Cruze,2018,Red,35000.0,18000.0,Miami
+1319,Hyundai,Elantra,Two Thousand 2019,Black,60000.0,19000.0,San Francisco
+1320,Toyota,Corolla,Two Thousand 2020,Gray,50000.0,,Dallas
+1321,Honda,Accord,1800,White,40000.0,,Atlanta
+1322,Ford,Mustang,2016,Yellow,,25000.0,Phoenix
+1323,Chevrolet,impala,2020,,,18000.0,Houston
+1324,HYUNDAI,Sonata,2015,Blue,55000.0,,Seattle
+1325,Toyota,Rav22,2015,Gray,50000.0,17000.0,Los Angeles
+1326,Honda,CR-V,1800,Red,45000.0 miles,,New York
+1327,Ford,Escape,2018,White,,18000.0,Chicago
+1328,Chevrolet,Equinox,2017,,35000.0,20000.0,Miami
+1329,Hyundai,Kona,2017,Blue,55000.0,19000.0,San Francisco
+1330,Toyota,Highlander,2020,Silver,50000.0,23000.0,Dallas
+1331,Honda,Pilot,2015,Gray,40000.0,,Atlanta
+1332,Ford,Explorer,2018,White,35000.0,$24000.0,Phoenix
+1333,Chevrolet,Traverse,2020,Black,,20000.0,Houston
+1334,Hyundai,Santa Fe,2019,,10,$22000.0,Seattle
+1335,Toyota,4Runner,2015,Silver,50000.0,290000.0,Los Angeles
+1336,HONDA,Odyssey,2016,White,45000.0,23000.0,New York
+1337,Ford,Edge,2019,,40000.0,27000.0,Chicago
+1338,Chevrolet,Tahoe,2018,Black,,,Miami
+1339,Hyundai,Palisade,2015,Silver,70000.0,28000.0,San Francisco
+1340,Toyota,Sienna,2019,Red,55000.0,22000.0,Dallas
+1341,Honda,Fit,2016,Gray,50000.0,21000.0,Atlanta
+1342,Ford,Fusion,2017,White,0.0 km,26000.0,Phoenix
+1343,Chevrolet,Malibu,2016,Blue,30000.0,29000.0,Houston
+1344,Hyundai,Venue,Two Thousand 2018,Silver,nan miles,27000.0,Seattle
+1345,Toyota,Yaris,2016,,55000.0,,Los Angeles
+1346,Honda,HR-V,2018,White,50000.0 miles,15000.0,New York
+1347,Ford,EcoSport,2015,Red,,17000.0,Chicago
+1348,Chevrolet,Spark,2015,Blue,60000.0 miles,14000.0,Miami
+1349,HYUNDAI,Accent,2016,,55000.0,,San Francisco
+1350,TOYOTA,Prius,2018,,,18000.0,Dallas
+1351,H0nda,Civic,2015,White,35000.0,,Atlanta
+1352,Ford,fiesta,2017,Blue,,14000.0,Phoenix
+1353,Chevrolet,Cruze,2020,Black,60000.0,12000.0,Houston
+1354,HYUNDAI,Elantra,2017,,40000.0,15000.0,Seattle
+1355,Toyota,Camry,2018,Silver,25000.0,19000.0,Los Angeles
+1356,Honda,accord,2025,White,30000.0 miles,18000.0,New York
+1357,F0rd,Mustang,2019,,nan km,22000.0,Chicago
+1358,Chevrolet,Camaro,2018,Red,55000.0,16000.0,Miami
+1359,Hyundai,Genesis,2019,Black,50000.0,14000.0,San Francisco
+1360,Toyota,Avalon,2016,,55000.0,19000.0,Dallas
+1361,Honda,Civic,2015,Gray,,,Atlanta
+1362,Ford,Fusion,2015,White,40000.0,21000.0,Phoenix
+1363,Chevrolet,impala,2017,Blue,45000.0,,Houston
+1364,Hyundai,Sonata,2020,Red,,$20000.0,Seattle
+1365,Toyota,Corolla,2017,Silver,60000.0,,Los Angeles
+1366,Honda,CR-V,2017,White,55000.0 km miles,,New York
+1367,Ford,Escape,2017,Blue,50000.0,23000.0,Chicago
+1368,Chevrolet,equinox,2015,Black,,28000.0,Miami
+1369,Hyundai,Tucson,2020,Red,40000.0,25000.0,San Francisco
+1370,Toyota,Rav22,2019,Gray,70000.0,,Dallas
+1371,Honda,Pilot,Two Thousand 2017,,55000.0,,Atlanta
+1372,Ford,explorer,2016,,50000.0,21000.0,Phoenix
+1373,Chevrolet,Traverse,2018,Black,45000.0,26000.0,Houston
+1374,HYUNDAI,Santa Fe,2018,Red,30000.0,,Seattle
+1375,Toyota,4Runner,2020,Silver,35000.0,27000.0,Los Angeles
+1376,H0nda,Odyssey,2015,,55000.0,,New York
+1377,Ford,Edge,2016,Blue,50000.0,$15000.0,Chicago
+1378,Chevr0let,Tahoe,2016,Black,40000.0,17000.0,Miami
+1379,Hyundai,Palisade,2018,Silver,nan miles,14000.0,San Francisco
+1380,Toyota,Sienna,2015,Red,55000.0,12000.0,Dallas
+1381,Honda,Fit,2025,Gray,50000.0,15000.0,Atlanta
+1382,Ford,Fusion,2020,,,17000.0,Phoenix
+1383,Chevrolet,Malibu,2017,Blue,,14000.0,Houston
+1384,Hyundai,Venue,2020,Silver,70000.0,,Seattle
+1385,Toyota,Yaris,2018,Black,55000.0,15000.0,Los Angeles
+1386,Toyota,Camry,2020,,50000.0,17000.0,Los Angeles
+1387,Honda,Civic,2016,Blue,,14000.0,New York
+1388,Toyota,Camry,2015,White,45000.0 miles,16000.0,Los Angeles
+1389,Honda,Civic,Two Thousand 2019,Blue,,18000.0,New York
+1390,FORD,Focus,2017,Silver,nan miles,19000.0,Chicago
+1391,CHEVROLET,Cruze,2015,Red,50000.0,,Miami
+1392,Hyundai,Elantra,2015,,40000.0 km,,San Francisco
+1393,Toyota,Corolla,2019,,35000.0,25000.0,Dallas
+1394,Honda,Accord,2018,White,70000.0,,Atlanta
+1395,FORD,Mustang,2017,Yellow,,,Phoenix
+1396,Chevr0let,Impala,2020,,,,Houston
+1397,Hyundai,sonata,2020,Blue,45000.0,,Seattle
+1398,Toyota,Rav23,2016,,40000.0 miles,18000.0,Los Angeles
+1399,H0nda,CR-V,2019,Red,35000.0,20000.0,New York
+1400,Ford,Escape,2015,White,55000.0,19000.0,Chicago
+1401,CHEVROLET,Equinox,Two Thousand 2017,Black,,23000.0,Miami
+1402,Hyundai,Kona,2019,Blue,40000.0,21000.0,San Francisco
+1403,Toyota,Highlander,2020,Silver,35000.0,24000.0,Dallas
+1404,Honda,Pilot,2019,,,20000.0,Atlanta
+1405,F0rd,Explorer,2016,,,22000.0,Phoenix
+1406,Chevrolet,Traverse,2017,Black,50000.0,100,Houston
+1407,Hyundai,Santa Fe,2015,Red,,23000.0,Seattle
+1408,Toyota,4Runner,2016,Silver,40000.0,27000.0,Los Angeles
+1409,Honda,Odyssey,2020,White,35000.0,25000.0,New York
+1410,Ford,Edge,2018,Blue,70000.0 miles,28000.0,Chicago
+1411,Chevrolet,Tahoe,Two Thousand 2020,Black,nan miles,22000.0,Miami
+1412,Hyundai,Palisade,2016,Silver,50000.0,,San Francisco
+1413,Toyota,Sienna,2017,Red,45000.0,26000.0,Dallas
+1414,Honda,Fit,2016,Gray,30000.0,29000.0,Atlanta
+1415,FORD,Fusion,2015,White,35000.0,,Phoenix
+1416,Chevrolet,Malibu,2016,Blue,55000.0,12000.0,Houston
+1417,Hyundai,venue,2020,,50000.0,,Seattle
+1418,TOYOTA,Yaris,2019,,40000.0 miles,,Los Angeles
+1419,Honda,HR-V,2018,White,,$14000.0,New York
+1420,Ford,EcoSport,2020,Red,55000.0,,Chicago
+1421,Chevrolet,Spark,2015,,,,Miami
+1422,HYUNDAI,accent,2019,Silver,35000.0,16000.0,San Francisco
+1423,TOYOTA,Prius,2017,Gray,55000.0,14000.0,Dallas
+1424,Honda,civic,2016,White,60000.0,12000.0,Atlanta
+1425,Ford,Fiesta,2020,Blue,40000.0,15000.0,Phoenix
+1426,Chevrolet,Cruze,2020,,25000.0,19000.0,Houston
+1427,Hyundai,Elantra,2017,,30000.0,18000.0,Seattle
+1428,Toyota,Camry,2019,,,22000.0,Los Angeles
+1429,HONDA,Accord,2015,,55000.0,16000.0,New York
+1430,Ford,Must@ng,2019,Blue,,14000.0,Chicago
+1431,Chevrolet,Camaro,2018,Red,55000.0,,Miami
+1432,Hyundai,Genesis,2019,Black,30000.0,,San Francisco
+1433,Toyota,Avalon,2019,,40000.0,,Dallas
+1434,Honda,Civic,2020,,45000.0,18000.0,Atlanta
+1435,Ford,Fusion,2018,White,35000.0,,Phoenix
+1436,Chevrolet,Impala,2017,Blue,,25000.0,Houston
+1437,Hyundai,Sonata,2019,,55000.0,24000.0,Seattle
+1438,Toyota,Corolla,2020,,,23000.0,Los Angeles
+1439,Honda,CR-V,2015,White,35000.0,,New York
+1440,Ford,Escape,2020,Blue,40000.0,25000.0,Chicago
+1441,Chevrolet,Equinox,2020,,70000.0 miles,$27000.0,Miami
+1442,Hyundai,Tucson,2018,Red,55000.0,,San Francisco
+1443,Toyota,Rav23,2016,Gray,50000.0,21000.0,Dallas
+1444,Honda,Pilot,2019,,,,Atlanta
+1445,Ford,explorer,2015,Blue,30000.0,29000.0,Phoenix
+1446,Chevrolet,Traverse,2017,,35000.0,27000.0,Houston
+1447,Hyundai,S@nt@ Fe,2017,Red,55000.0,$12000.0,Seattle
+1448,Toyota,4Runner,2016,Silver,50000.0 miles,15000.0,Los Angeles
+1449,HONDA,Odyssey,2016,White,40000.0,17000.0,New York
+1450,Ford,Edge,2017,Blue,60000.0,,Chicago
+1451,Chevrolet,Tahoe,2020,Black,55000.0,12000.0,Miami
+1452,HYUNDAI,Palisade,2016,Silver,50000.0,290000.0,San Francisco
+1453,Toyota,Sienna,2018,Red,40000.0,17000.0,Dallas
+1454,Honda,Fit,2018,Gray,35000.0,14000.0,Atlanta
+1455,Ford,Fusion,2020,,70000.0,,Phoenix
+1456,Chevrolet,Malibu,2017,Blue,55000.0,15000.0,Houston
+1457,HYUNDAI,Venue,2017,Silver,50000.0,17000.0,Seattle
+1458,Toyota,Yaris,2015,Black,,14000.0,Los Angeles
+1459,Toyota,camry,2017,,10,16000.0,Los Angeles
+1460,Honda,Civic,2017,,35000.0,18000.0,New York
+1461,Toyota,camry,2015,White,60000.0,,Los Angeles
+1462,Honda,Civic,2016,Blue,50000.0,18000.0,New York
+1463,Ford,Focus,2018,Silver,40000.0,22000.0,Chicago
+1464,Chevrolet,Cruze,2019,Red,35000.0,25000.0,Miami
+1465,Hyundai,Elantra,2020,Black,70000.0,18000.0,San Francisco
+1466,TOYOTA,Corolla,Two Thousand 2020,Gray,55000.0,19000.0,Dallas
+1467,Honda,Accord,2017,White,50000.0,17000.0,Atlanta
+1468,Ford,Mustang,2016,Yellow,45000.0,16000.0,Phoenix
+1469,Chevr0let,Impala,2018,Black,40000.0,100,Houston
+1470,Hyundai,Sonata,2016,Blue,35000.0 miles,20000.0,Seattle
+1471,Toyota,Rav24,2016,Gray,55000.0,$nan,Los Angeles
+1472,Honda,CR-V,2017,Red,50000.0,23000.0,New York
+1473,Ford,Escape,2017,White,40000.0,290000.0,Chicago
+1474,Chevrolet,Equinox,2019,Black,35000.0,24000.0,Miami
+1475,Hyundai,Kona,Two Thousand 2018,,70000.0,20000.0,San Francisco
+1476,Toyota,Highlander,2015,Silver,55000.0,22000.0,Dallas
+1477,Honda,pilot,2015,Gray,50000.0,,Atlanta
+1478,Ford,explorer,2020,White,45000.0,,Phoenix
+1479,Chevrolet,Traverse,1800,Black,40000.0 miles,$27000.0,Houston
+1480,Hyundai,Santa Fe,2017,Red,,25000.0,Seattle
+1481,Toyota,4Runner,2018,,70000.0,28000.0,Los Angeles
+1482,Honda,Odyssey,2017,White,,,New York
+1483,Ford,Edge,2015,Blue,50000.0,21000.0,Chicago
+1484,CHEVROLET,Tahoe,2015,,45000.0 miles,26000.0,Miami
+1485,Hyundai,Palisade,2019,,30000.0,100,San Francisco
+1486,Toyota,Sienna,2017,Red,35000.0 miles,,Dallas
+1487,Honda,Fit,2017,Gray,,,Atlanta
+1488,Ford,Fusion,2019,White,50000.0,15000.0,Phoenix
+1489,Chevrolet,Malibu,2016,Blue,40000.0,17000.0,Houston
+1490,Hyundai,Venue,Two Thousand 2015,,60000.0,14000.0,Seattle
+1491,TOYOTA,Yaris,2015,Black,55000.0,,Los Angeles
+1492,Honda,HR-V,2018,White,45000.0,18000.0,New York
+1493,Ford,EcoSport,2016,Red,35000.0,$16000.0,Chicago
+1494,Chevrolet,Spark,2018,Blue,,$14000.0,Miami
+1495,Hyundai,Accent,2018,Silver,60000.0,,San Francisco
+1496,TOYOTA,Prius,Two Thousand 2020,Gray,40000.0,,Dallas
+1497,Honda,Civic,2018,White,25000.0,19000.0,Atlanta
+1498,Ford,Fiesta,2017,Blue,30000.0,18000.0,Phoenix
+1499,Chevrolet,Cruze,2018,Black,,22000.0,Houston
+1500,Hyundai,Elantra,2018,Red,55000.0,,Seattle
+1501,Toyota,Camry,2018,Silver,,14000.0,Los Angeles
+1502,Honda,Accord,2015,,,19000.0,New York
+1503,F0rd,mustang,2015,Blue,30000.0,23000.0,Chicago
+1504,Chevrolet,Camaro,2019,Red,,,Miami
+1505,Hyundai,Genesis,2016,Black,45000.0,18000.0,San Francisco
+1506,Toyota,Avalon,2018,,35000.0 km miles,20000.0,Dallas
+1507,Honda,Civic,2015,,60000.0 miles,25000.0,Atlanta
+1508,Ford,Fusion,Two Thousand 2019,White,55000.0,,Phoenix
+1509,CHEVROLET,Impala,2017,,50000.0,,Houston
+1510,Hyundai,Sonata,2015,Red,35000.0,28000.0,Seattle
+1511,Toyota,Corolla,2019,Silver,40000.0,25000.0,Los Angeles
+1512,Honda,CR-V,2017,,70000.0 miles,27000.0,New York
+1513,Ford,Escape,2018,,55000.0 miles,22000.0,Chicago
+1514,Chevrolet,Equinox,2019,,50000.0,,Miami
+1515,Hyundai,Tucson,2018,Red,,26000.0,San Francisco
+1516,Toyota,Rav24,2017,Gray,30000.0 miles,$29000.0,Dallas
+1517,Honda,Pilot,2018,White,35000.0,27000.0,Atlanta
+1518,FORD,Explorer,2016,Blue,55000.0,,Phoenix
+1519,Chevrolet,traverse,2020,Black,50000.0 km,,Houston
+1520,Hyundai,Santa Fe,2017,Red,40000.0,17000.0,Seattle
+1521,Toyota,4Runner,2020,Silver,,14000.0,Los Angeles
+1522,Honda,Odyssey,2017,White,55000.0 miles,12000.0,New York
+1523,Ford,Edge,2015,Blue,50000.0,15000.0,Chicago
+1524,Chevrolet,Tahoe,2017,,40000.0,17000.0,Miami
+1525,Hyundai,Palisade,1800,,,14000.0,San Francisco
+1526,Toyota,Sienna,2017,,70000.0,,Dallas
+1527,Honda,Fit,2017,Gray,55000.0,,Atlanta
+1528,Ford,Fusion,2020,White,50000.0 miles,17000.0,Phoenix
+1529,Chevrolet,Malibu,2019,Blue,,14000.0,Houston
+1530,Hyundai,Venue,2018,Silver,45000.0 miles,16000.0,Seattle
+1531,TOYOTA,Yaris,2019,Black,35000.0 miles,18000.0,Los Angeles
+1532,Toyota,Camry,2016,White,60000.0,19000.0,Los Angeles
+1533,Honda,Civic,2017,Blue,50000.0,100,New York
+1534,Toyota,C@mry,2019,White,40000.0,22000.0,Los Angeles
+1535,Honda,Civic,2015,Blue,35000.0 km,25000.0,New York
+1536,Ford,Focus,2019,Silver,70000.0,18000.0,Chicago
+1537,Chevrolet,Cruze,2020,,55000.0,19000.0,Miami
+1538,Hyundai,El@ntr@,Two Thousand 2020,,,17000.0,San Francisco
+1539,Toyota,Corolla,2015,,45000.0,$16000.0,Dallas
+1540,Honda,Accord,2015,,,18000.0,Atlanta
+1541,Ford,Must@ng,2020,Yellow,35000.0,20000.0,Phoenix
+1542,CHEVROLET,Impala,2016,Black,55000.0 miles,19000.0,Houston
+1543,Hyundai,Sonata,2017,Blue,50000.0 miles,23000.0,Seattle
+1544,TOYOTA,Rav25,2017,Gray,40000.0,21000.0,Los Angeles
+1545,Honda,CR-V,2020,,35000.0,24000.0,New York
+1546,Ford,Escape,2016,White,,20000.0,Chicago
+1547,Chevrolet,Equinox,2025,,,,Miami
+1548,HYUNDAI,Kona,2015,Blue,50000.0,24000.0,San Francisco
+1549,Toyota,highlander,2016,Silver,45000.0 miles,23000.0,Dallas
+1550,Honda,Pilot,2016,Gray,,$27000.0,Atlanta
+1551,Ford,Explorer,2020,White,,25000.0,Phoenix
+1552,Chevr0let,Traverse,2020,,70000.0 miles,28000.0,Houston
+1553,HYUNDAI,Santa Fe,2016,Red,55000.0,22000.0,Seattle
+1554,Toyota,4Runner,2020,Silver,50000.0,21000.0,Los Angeles
+1555,Honda,Odyssey,Two Thousand 2018,White,45000.0,26000.0,New York
+1556,Ford,Edge,2019,Blue,,29000.0,Chicago
+1557,CHEVROLET,Tahoe,2016,Black,35000.0,,Miami
+1558,Hyundai,Palisade,2018,,55000.0,12000.0,San Francisco
+1559,Toyota,sienna,2017,,50000.0,15000.0,Dallas
+1560,Honda,Fit,2020,,,,Atlanta
+1561,Ford,fusion,2016,White,60000.0,14000.0,Phoenix
+1562,Chevrolet,Malibu,2019,Blue,,,Houston
+1563,Hyundai,Venue,2019,Silver,45000.0,290000.0,Seattle
+1564,Toyota,yaris,2019,,35000.0,,Los Angeles
+1565,Honda,HR-V,2017,White,55000.0,14000.0,New York
+1566,Ford,EcoSport,2017,,0.0,12000.0,Chicago
+1567,Chevrolet,Spark,2017,Blue,,15000.0,Miami
+1568,Hyundai,Accent,2016,Silver,25000.0,19000.0,San Francisco
+1569,Toyota,Prius,2017,,,,Dallas
+1570,Honda,Civic,2016,,65000.0,22000.0,Atlanta
+1571,Ford,Fiesta,2017,Blue,55000.0 miles,16000.0,Phoenix
+1572,Chevrolet,Cruze,2020,,50000.0,$nan,Houston
+1573,Hyundai,Elantra,2020,,55000.0,$19000.0,Seattle
+1574,Toyota,Camry,Two Thousand 2018,Silver,30000.0,23000.0,Los Angeles
+1575,Honda,Accord,2016,,40000.0,,New York
+1576,Ford,mustang,2017,Blue,nan km,$18000.0,Chicago
+1577,Chevrolet,Camaro,2015,Red,35000.0 miles,290000.0,Miami
+1578,Hyundai,Genesis,2016,,,,San Francisco
+1579,Toyota,Avalon,2018,Silver,,,Dallas
+1580,HONDA,Civic,2016,Gray,50000.0,,Atlanta
+1581,Ford,Fusion,2019,White,35000.0,28000.0,Phoenix
+1582,Chevrolet,Impala,2017,Blue,40000.0,25000.0,Houston
+1583,Hyundai,Sonata,2019,Red,,27000.0,Seattle
+1584,Toyota,Corolla,2016,Silver,55000.0,22000.0,Los Angeles
+1585,Honda,CR-V,2017,White,50000.0,21000.0,New York
+1586,F0rd,Escape,2015,Blue,,26000.0,Chicago
+1587,Chevrolet,Equinox,2019,Black,30000.0,29000.0,Miami
+1588,Hyundai,Tucson,2015,Red,,27000.0,San Francisco
+1589,Toyota,Rav25,2015,,55000.0,12000.0,Dallas
+1590,Honda,Pilot,2020,White,50000.0,15000.0,Atlanta
+1591,Ford,Explorer,2016,Blue,,17000.0,Phoenix
+1592,Chevrolet,Traverse,2016,Black,60000.0 km,14000.0,Houston
+1593,Hyundai,Santa Fe,2015,,55000.0,,Seattle
+1594,TOYOTA,4Runner,2015,Silver,50000.0,15000.0,Los Angeles
+1595,Honda,Odyssey,Two Thousand 2015,White,nan miles,290000.0,New York
+1596,Ford,Edge,2017,,35000.0,14000.0,Chicago
+1597,Chevrolet,Tahoe,2018,,70000.0,12000.0,Miami
+1598,Hyundai,Palisade,2015,Silver,55000.0,,San Francisco
+1599,Toyota,Sienna,2019,Red,50000.0 km,17000.0,Dallas
+1600,Honda,Fit,2017,Gray,0.0 miles,14000.0,Atlanta
+1601,Ford,Fusion,2019,White,45000.0 miles,16000.0,Phoenix
+1602,Chevrolet,Malibu,2017,Blue,35000.0,18000.0,Houston
+1603,Hyundai,Venue,2016,Silver,60000.0,19000.0,Seattle
+1604,Toyota,Yaris,2018,Black,,18000.0,Los Angeles
+1605,Toyota,Camry,2020,White,40000.0,22000.0,Los Angeles
+1606,Honda,civic,2017,Blue,35000.0 miles,25000.0,New York
+1607,Toyota,Camry,2017,White,70000.0,18000.0,Los Angeles
+1608,Honda,Civic,2017,Blue,,,New York
+1609,Ford,Focus,2020,Silver,50000.0,17000.0,Chicago
+1610,Chevrolet,Cruze,2020,,45000.0,16000.0,Miami
+1611,Hyundai,Elantra,2018,Black,nan km,18000.0,San Francisco
+1612,Toyota,Corolla,2020,Gray,35000.0,20000.0,Dallas
+1613,Honda,Accord,2017,White,0.0 km,19000.0,Atlanta
+1614,Ford,Mustang,2016,,50000.0,23000.0,Phoenix
+1615,Chevrolet,Impala,2015,Black,,21000.0,Houston
+1616,Hyundai,sonata,2016,,,,Seattle
+1617,Toyota,Rav26,2017,Gray,70000.0,20000.0,Los Angeles
+1618,HONDA,CR-V,2016,Red,55000.0,,New York
+1619,Ford,Escape,2018,White,,,Chicago
+1620,Chevrolet,Equinox,2016,,,23000.0,Miami
+1621,Hyundai,Kona,2015,Blue,40000.0,,San Francisco
+1622,Toyota,Highlander,2018,Silver,,25000.0,Dallas
+1623,Honda,Pilot,2020,Gray,70000.0,28000.0,Atlanta
+1624,Ford,Explorer,2016,,55000.0,,Phoenix
+1625,Chevrolet,traverse,2020,Black,50000.0,,Houston
+1626,Hyundai,Santa Fe,2017,Red,45000.0 miles,26000.0,Seattle
+1627,Toyota,4Runner,2018,,30000.0 km,29000.0,Los Angeles
+1628,Honda,Odyssey,2020,White,35000.0,27000.0,New York
+1629,Ford,edge,2020,Blue,55000.0,12000.0,Chicago
+1630,Chevrolet,T@hoe,2017,Black,50000.0,15000.0,Miami
+1631,Hyundai,P@lis@de,2016,Silver,40000.0,17000.0,San Francisco
+1632,Toyota,sienna,2020,,,14000.0,Dallas
+1633,Honda,Fit,2020,Gray,55000.0,,Atlanta
+1634,FORD,Fusion,2017,White,45000.0,18000.0,Phoenix
+1635,Chevrolet,Malibu,2018,,35000.0,,Houston
+1636,HYUNDAI,venue,2019,Silver,55000.0,100,Seattle
+1637,Toyota,Yaris,2018,Black,60000.0,12000.0,Los Angeles
+1638,HONDA,hr-v,2019,White,40000.0 miles,15000.0,New York
+1639,Ford,EcoSport,2018,Red,,19000.0,Chicago
+1640,CHEVROLET,Spark,2015,Blue,30000.0,18000.0,Miami
+1641,Hyundai,Accent,2025,Silver,,22000.0,San Francisco
+1642,Toyota,Prius,2017,,55000.0,16000.0,Dallas
+1643,Honda,Civic,2016,,50000.0,$14000.0,Atlanta
+1644,Ford,Fiesta,2020,,55000.0,,Phoenix
+1645,Chevrolet,Cruze,2015,Black,30000.0,23000.0,Houston
+1646,Hyundai,Elantra,2016,Red,40000.0,,Seattle
+1647,Toyota,Camry,2017,Silver,45000.0,18000.0,Los Angeles
+1648,Honda,Accord,2019,,35000.0,,New York
+1649,Ford,Mustang,2018,Blue,nan miles,,Chicago
+1650,Chevrolet,Camaro,2019,Red,55000.0,24000.0,Miami
+1651,Hyundai,Genesis,2018,Black,,23000.0,San Francisco
+1652,TOYOTA,Avalon,2015,Silver,,28000.0,Dallas
+1653,Honda,Civic,Two Thousand 2017,Gray,40000.0,25000.0,Atlanta
+1654,Ford,Fusion,2016,,70000.0,27000.0,Phoenix
+1655,Chevrolet,Impala,2015,Blue,55000.0,22000.0,Houston
+1656,Hyundai,Sonata,2016,Red,nan miles,,Seattle
+1657,Toyota,Corolla,2017,Silver,45000.0,,Los Angeles
+1658,HONDA,CR-V,2016,White,30000.0,29000.0,New York
+1659,Ford,Escape,2017,,35000.0,,Chicago
+1660,Chevrolet,Equinox,2019,Black,55000.0,,Miami
+1661,Hyundai,Tucson,2018,,50000.0 km,15000.0,San Francisco
+1662,T0y0ta,Rav26,Two Thousand 2020,Gray,40000.0,17000.0,Dallas
+1663,Honda,Pilot,2016,White,60000.0,,Atlanta
+1664,Ford,Explorer,2020,Blue,55000.0,12000.0,Phoenix
+1665,Chevrolet,Traverse,2018,,50000.0,,Houston
+1666,Hyundai,Santa Fe,2016,,40000.0,$17000.0,Seattle
+1667,Toyota,4Runner,2020,,35000.0 miles,,Los Angeles
+1668,Honda,Odyssey,2019,White,,12000.0,New York
+1669,Ford,Edge,2015,Blue,55000.0,,Chicago
+1670,Chevrolet,Tahoe,2018,Black,50000.0,,Miami
+1671,HYUNDAI,Palisade,2017,Silver,40000.0,14000.0,San Francisco
+1672,Toyota,Sienna,2017,Red,,16000.0,Dallas
+1673,Honda,Fit,2015,Gray,35000.0,,Atlanta
+1674,FORD,Fusion,2018,White,60000.0,19000.0,Phoenix
+1675,Chevr0let,m@libu,2016,Blue,50000.0,100,Houston
+1676,Hyundai,Venue,2019,Silver,40000.0,22000.0,Seattle
+1677,Toyota,Yaris,2018,Black,35000.0,25000.0,Los Angeles
+1678,Toyota,Camry,2017,White,70000.0,18000.0,Los Angeles
+1679,Honda,Civic,2019,Blue,55000.0,19000.0,New York
+1680,Toyota,Camry,2016,White,50000.0,17000.0,Los Angeles
+1681,HONDA,Civic,2020,Blue,,16000.0,New York
+1682,Ford,Focus,2016,Silver,40000.0,18000.0,Chicago
+1683,Chevrolet,Cruze,2017,Red,35000.0,20000.0,Miami
+1684,Hyundai,Elantra,2016,Black,55000.0,,San Francisco
+1685,Toyota,Corolla,2017,,50000.0,23000.0,Dallas
+1686,H0nda,Accord,2019,White,40000.0,21000.0,Atlanta
+1687,Ford,Mustang,2016,Yellow,35000.0,24000.0,Phoenix
+1688,CHEVROLET,Impala,2017,,70000.0,20000.0,Houston
+1689,Hyundai,Sonata,Two Thousand 2017,Blue,55000.0,22000.0,Seattle
+1690,Toyota,Rav27,2018,Gray,50000.0,24000.0,Los Angeles
+1691,Honda,CR-V,2017,Red,,23000.0,New York
+1692,Ford,Esc@pe,2018,,40000.0,27000.0,Chicago
+1693,Chevrolet,Equinox,2017,Black,,25000.0,Miami
+1694,Hyundai,Kona,2018,,,28000.0,San Francisco
+1695,Toyota,Highlander,2017,,55000.0,,Dallas
+1696,Honda,Pilot,2020,Gray,50000.0,21000.0,Atlanta
+1697,Ford,Explorer,2015,,45000.0,26000.0,Phoenix
+1698,CHEVROLET,Traverse,2015,Black,30000.0,29000.0,Houston
+1699,Hyundai,Santa Fe,2019,,35000.0,$27000.0,Seattle
+1700,Toyota,4Runner,2018,,55000.0,,Los Angeles
+1701,Honda,Odyssey,2017,,50000.0,15000.0,New York
+1702,FORD,Edge,2016,Blue,40000.0,17000.0,Chicago
+1703,Chevrolet,T@hoe,2019,Black,nan miles,,Miami
+1704,Hyundai,Palisade,Two Thousand 2015,Silver,55000.0,12000.0,San Francisco
+1705,Toyota,Sienna,Two Thousand 2017,Red,45000.0,18000.0,Dallas
+1706,Honda,Fit,2018,,35000.0,$16000.0,Atlanta
+1707,Ford,Fusion,2019,,,14000.0,Phoenix
+1708,CHEVROLET,Malibu,2017,,60000.0,12000.0,Houston
+1709,Hyundai,Venue,2019,Silver,40000.0,,Seattle
+1710,Toyota,Yaris,2019,Black,25000.0 miles,19000.0,Los Angeles
+1711,Honda,HR-V,2016,,30000.0,,New York
+1712,Ford,EcoSport,2016,Red,65000.0 miles,22000.0,Chicago
+1713,CHEVROLET,Spark,2017,Blue,55000.0,,Miami
+1714,Hyundai,Accent,2016,,50000.0,14000.0,San Francisco
+1715,Toyota,prius,2015,Gray,,19000.0,Dallas
+1716,H0nda,Civic,2019,White,,$23000.0,Atlanta
+1717,Ford,fiesta,2019,,40000.0,290000.0,Phoenix
+1718,Chevrolet,Cruze,2020,Black,,18000.0,Houston
+1719,Hyundai,Elantra,2020,Red,35000.0,20000.0,Seattle
+1720,Toyota,Camry,2016,Silver,,25000.0,Los Angeles
+1721,Honda,Accord,2015,White,55000.0,24000.0,New York
+1722,Ford,Must@ng,2019,,50000.0,100,Chicago
+1723,Chevrolet,Camaro,2015,Red,35000.0,28000.0,Miami
+1724,Hyundai,Genesis,2019,Black,40000.0,290000.0,San Francisco
+1725,Toyota,Avalon,2019,Silver,70000.0 km,27000.0,Dallas
+1726,Honda,Civic,2017,Gray,55000.0,22000.0,Atlanta
+1727,Ford,Fusion,2016,White,50000.0,21000.0,Phoenix
+1728,Chevrolet,Impala,2016,Blue,45000.0,26000.0,Houston
+1729,Hyundai,Sonata,2019,Red,30000.0,29000.0,Seattle
+1730,T0y0ta,Corolla,Two Thousand 2016,Silver,35000.0,,Los Angeles
+1731,Honda,CR-V,2020,White,55000.0,,New York
+1732,Ford,Escape,2015,,,15000.0,Chicago
+1733,Chevrolet,Equinox,2015,,40000.0,17000.0,Miami
+1734,HYUNDAI,Tucson,2015,Red,60000.0 miles,14000.0,San Francisco
+1735,Toyota,Rav27,2017,Gray,,12000.0,Dallas
+1736,Honda,Pilot,2019,,nan miles,290000.0,Atlanta
+1737,Ford,Explorer,2017,,40000.0 km,,Phoenix
+1738,Chevrolet,Traverse,2017,Black,35000.0,14000.0,Houston
+1739,Hyundai,Santa Fe,2019,Red,70000.0,12000.0,Seattle
+1740,Toyota,4Runner,2019,Silver,55000.0,15000.0,Los Angeles
+1741,Honda,Odyssey,2020,,50000.0,17000.0,New York
+1742,Ford,Edge,2016,Blue,40000.0,14000.0,Chicago
+1743,Chevrolet,T@hoe,2017,Black,45000.0 km,16000.0,Miami
+1744,HYUNDAI,Palisade,2019,Silver,,18000.0,San Francisco
+1745,Toyota,Sienna,2015,Red,60000.0,19000.0,Dallas
+1746,Honda,fit,2019,,50000.0,$18000.0,Atlanta
+1747,FORD,Fusion,2025,,,22000.0,Phoenix
+1748,Chevrolet,malibu,2015,Blue,35000.0,25000.0,Houston
+1749,Hyundai,Venue,2018,Silver,70000.0,18000.0,Seattle
+1750,TOYOTA,Yaris,2018,Black,55000.0,,Los Angeles
+1751,Toyota,camry,2016,,50000.0,17000.0,Los Angeles
+1752,Honda,Civic,2016,Blue,,16000.0,New York
+1753,Toyota,Camry,2019,White,40000.0,,Los Angeles
+1754,H0nda,Civic,2025,Blue,35000.0,20000.0,New York
+1755,Ford,Focus,2019,,,19000.0,Chicago
+1756,Chevrolet,Cruze,2016,Red,0.0,23000.0,Miami
+1757,Hyundai,Elantra,2025,,40000.0,21000.0,San Francisco
+1758,Toyota,Corolla,2016,Gray,10,24000.0,Dallas
+1759,Honda,Accord,2015,White,70000.0,,Atlanta
+1760,Ford,Mustang,2019,Yellow,55000.0,,Phoenix
+1761,Chevrolet,Impala,2015,Black,nan miles,24000.0,Houston
+1762,Hyundai,sonata,2019,Blue,45000.0,290000.0,Seattle
+1763,Toyota,Rav28,2015,Gray,40000.0,,Los Angeles
+1764,Honda,CR-V,2020,Red,,25000.0,New York
+1765,Ford,Escape,2020,White,70000.0 km,28000.0,Chicago
+1766,Chevrolet,Equinox,2015,Black,55000.0,22000.0,Miami
+1767,Hyundai,Kona,2020,Blue,,21000.0,San Francisco
+1768,Toyota,Highlander,2020,Silver,45000.0,26000.0,Dallas
+1769,Honda,Pilot,2015,Gray,30000.0,29000.0,Atlanta
+1770,FORD,Explorer,2016,White,,27000.0,Phoenix
+1771,Chevrolet,Traverse,2019,Black,55000.0,,Houston
+1772,Hyundai,santa fe,2020,,50000.0,15000.0,Seattle
+1773,Toyota,4Runner,2015,Silver,40000.0 km,17000.0,Los Angeles
+1774,HONDA,odyssey,2016,White,,14000.0,New York
+1775,F0rd,Edge,2016,Blue,55000.0,,Chicago
+1776,CHEVROLET,Tahoe,2018,Black,45000.0 miles,18000.0,Miami
+1777,Hyundai,Palisade,2020,Silver,nan km,16000.0,San Francisco
+1778,Toyota,Sienn@,2016,,55000.0,,Dallas
+1779,Honda,Fit,2016,,60000.0,12000.0,Atlanta
+1780,Ford,Fusion,2015,,,15000.0,Phoenix
+1781,Chevrolet,Malibu,Two Thousand 2016,Blue,25000.0,,Houston
+1782,Hyundai,Venue,2019,,nan km miles,18000.0,Seattle
+1783,Toyota,Yaris,2015,Black,nan km,,Los Angeles
+1784,Honda,HR-V,2018,White,55000.0,16000.0,New York
+1785,Ford,ecosport,2018,,50000.0,14000.0,Chicago
+1786,Chevrolet,Spark,2017,,55000.0,,Miami
+1787,Hyundai,Accent,2020,,,,San Francisco
+1788,TOYOTA,Prius,Two Thousand 2016,Gray,,,Dallas
+1789,Honda,Civic,2017,White,,18000.0,Atlanta
+1790,Ford,Fiesta,2025,Blue,35000.0,20000.0,Phoenix
+1791,CHEVROLET,Cruze,2020,Black,60000.0,25000.0,Houston
+1792,Hyundai,Elantra,2017,Red,55000.0 miles,24000.0,Seattle
+1793,Toyota,camry,2019,Silver,50000.0,,Los Angeles
+1794,Honda,Accord,2016,,35000.0,28000.0,New York
+1795,Ford,Mustang,2016,Blue,,25000.0,Chicago
+1796,Chevrolet,Camaro,2017,,,27000.0,Miami
+1797,Hyundai,Genesis,2016,Black,55000.0,,San Francisco
+1798,Toyota,Avalon,2016,Silver,,21000.0,Dallas
+1799,Honda,Civic,2015,,45000.0,26000.0,Atlanta
+1800,Ford,fusion,2019,,,29000.0,Phoenix
+1801,Chevrolet,Impala,2016,,35000.0,,Houston
+1802,Hyundai,Sonata,2020,,55000.0,12000.0,Seattle
+1803,Toyota,Corolla,2016,,50000.0,15000.0,Los Angeles
+1804,Honda,CR-V,2018,,40000.0,17000.0,New York
+1805,Ford,Escape,2015,Blue,60000.0,14000.0,Chicago
+1806,Chevrolet,Equinox,2017,Black,55000.0,12000.0,Miami
+1807,HYUNDAI,Tucson,2017,Red,50000.0,15000.0,San Francisco
+1808,Toyota,Rav28,2017,Gray,40000.0 miles,17000.0,Dallas
+1809,Honda,Pilot,2019,,,14000.0,Atlanta
+1810,Ford,Explorer,2015,Blue,70000.0,$12000.0,Phoenix
+1811,Chevrolet,Traverse,1800,Black,,,Houston
+1812,Hyundai,Santa Fe,2020,,,17000.0,Seattle
+1813,Toyota,4runner,2019,,,,Los Angeles
+1814,Honda,Odyssey,2017,White,,$16000.0,New York
+1815,FORD,edge,2017,Blue,35000.0,18000.0,Chicago
+1816,Chevrolet,Tahoe,2015,Black,60000.0,19000.0,Miami
+1817,Hyundai,Palisade,2020,Silver,50000.0,$nan,San Francisco
+1818,Toyota,Sienna,2019,Red,nan miles,22000.0,Dallas
+1819,Honda,Fit,2019,,nan miles,25000.0,Atlanta
+1820,Ford,Fusion,2018,White,70000.0,18000.0,Phoenix
+1821,Chevrolet,Malibu,2015,Blue,55000.0,19000.0,Houston
+1822,Hyundai,Venue,2017,Silver,50000.0,,Seattle
+1823,TOYOTA,Yaris,2018,Black,45000.0 km,16000.0,Los Angeles
+1824,Toyota,Camry,2015,White,nan miles,,Los Angeles
+1825,Honda,Civic,2025,Blue,0.0,20000.0,New York
+1826,TOYOTA,Camry,2016,White,55000.0,19000.0,Los Angeles
+1827,HONDA,Civic,2019,Blue,50000.0,23000.0,New York
+1828,Ford,Focus,2016,Silver,,21000.0,Chicago
+1829,Chevrolet,Cruze,2015,,,24000.0,Miami
+1830,Hyundai,Elantra,Two Thousand 2016,Black,70000.0 km,,San Francisco
+1831,Toyota,Corolla,2015,Gray,nan miles,22000.0,Dallas
+1832,Honda,accord,2017,White,50000.0,24000.0,Atlanta
+1833,Ford,Mustang,2017,Yellow,45000.0 miles,23000.0,Phoenix
+1834,Chevrolet,Impala,2015,Black,40000.0,27000.0,Houston
+1835,Hyundai,Sonata,2018,Blue,,25000.0,Seattle
+1836,Toyota,Rav29,2015,,70000.0,28000.0,Los Angeles
+1837,Honda,CR-V,2015,Red,55000.0,22000.0,New York
+1838,FORD,Escape,Two Thousand 2016,White,,21000.0,Chicago
+1839,Chevrolet,equinox,2019,,45000.0,26000.0,Miami
+1840,Hyundai,Kona,2016,,,29000.0,San Francisco
+1841,Toyota,Highlander,2017,Silver,35000.0,27000.0,Dallas
+1842,Honda,Pilot,2015,,55000.0,12000.0,Atlanta
+1843,Ford,Explorer,2016,White,50000.0,15000.0,Phoenix
+1844,Chevrolet,Traverse,2019,Black,,17000.0,Houston
+1845,Hyundai,Santa Fe,2025,Red,10,14000.0,Seattle
+1846,Toyota,4Runner,2019,,55000.0,12000.0,Los Angeles
+1847,Honda,Odyssey,2020,White,,18000.0,New York
+1848,Ford,Edge,2019,Blue,35000.0,,Chicago
+1849,Chevrolet,Tahoe,Two Thousand 2017,,55000.0,100,Miami
+1850,Hyundai,palisade,Two Thousand 2016,,60000.0,,San Francisco
+1851,TOYOTA,sienna,2019,Red,,15000.0,Dallas
+1852,Honda,Fit,2017,Gray,25000.0,19000.0,Atlanta
+1853,Ford,Fusion,2020,White,30000.0,18000.0,Phoenix
+1854,Chevrolet,Malibu,2018,Blue,65000.0,22000.0,Houston
+1855,Hyundai,Venue,1800,Silver,55000.0,16000.0,Seattle
+1856,Toyota,Yaris,2017,,,14000.0,Los Angeles
+1857,Honda,hr-v,2016,White,55000.0,19000.0,New York
+1858,Ford,EcoSport,2020,,30000.0,23000.0,Chicago
+1859,Chevrolet,Spark,2016,Blue,,21000.0,Miami
+1860,Hyundai,Accent,2016,Silver,45000.0,18000.0,San Francisco
+1861,Toyota,Prius,1800,Gray,,20000.0,Dallas
+1862,Honda,Civic,2018,White,60000.0 km,25000.0,Atlanta
+1863,Ford,Fiesta,2019,Blue,,24000.0,Phoenix
+1864,Chevrolet,Cruze,2016,Black,50000.0,23000.0,Houston
+1865,HYUNDAI,El@ntr@,2017,Red,35000.0,28000.0,Seattle
+1866,Toyota,Camry,2018,,40000.0,25000.0,Los Angeles
+1867,Honda,Accord,2018,White,70000.0,,New York
+1868,FORD,Must@ng,2019,Blue,,22000.0,Chicago
+1869,Chevrolet,Camaro,2017,Red,50000.0,,Miami
+1870,Hyundai,Genesis,2017,Black,45000.0 miles,26000.0,San Francisco
+1871,Toyota,Avalon,2020,Silver,30000.0,29000.0,Dallas
+1872,Honda,Civic,2015,Gray,35000.0,27000.0,Atlanta
+1873,Ford,Fusion,2020,White,55000.0,12000.0,Phoenix
+1874,CHEVROLET,Impala,2015,Blue,50000.0,15000.0,Houston
+1875,Hyundai,Sonata,2017,Red,,17000.0,Seattle
+1876,Toyota,Corolla,2017,Silver,60000.0,,Los Angeles
+1877,Honda,CR-V,2020,White,55000.0,290000.0,New York
+1878,Ford,Escape,2015,Blue,50000.0 km,,Chicago
+1879,Chevrolet,Equinox,Two Thousand 2017,Black,nan miles,290000.0,Miami
+1880,HYUNDAI,Tucson,2020,Red,,14000.0,San Francisco
+1881,T0y0ta,Rav29,2017,Gray,70000.0,12000.0,Dallas
+1882,Honda,Pilot,2017,White,55000.0,,Atlanta
+1883,Ford,Explorer,2017,Blue,,17000.0,Phoenix
+1884,Chevrolet,Traverse,2020,Black,40000.0,14000.0,Houston
+1885,Hyundai,Santa Fe,2018,Red,nan km miles,,Seattle
+1886,Toyota,4Runner,2015,Silver,35000.0,18000.0,Los Angeles
+1887,HONDA,Odyssey,2019,White,60000.0,,New York
+1888,Ford,Edge,2017,Blue,50000.0,18000.0,Chicago
+1889,Chevrolet,Tahoe,2019,Black,,22000.0,Miami
+1890,Hyundai,Palisade,2018,Silver,35000.0,100,San Francisco
+1891,Toyota,Sienna,2018,Red,nan km,18000.0,Dallas
+1892,Honda,Fit,2016,Gray,55000.0,19000.0,Atlanta
+1893,Ford,Fusion,2020,White,50000.0,,Phoenix
+1894,Chevr0let,Malibu,2018,Blue,45000.0,,Houston
+1895,Hyundai,Venue,2019,Silver,40000.0,,Seattle
+1896,Toyota,Yaris,2016,,35000.0,,Los Angeles
+1897,Toyota,Camry,2020,White,55000.0,$19000.0,Los Angeles
+1898,Honda,Civic,2018,Blue,,23000.0,New York
+1899,Toyota,Camry,2018,White,40000.0,21000.0,Los Angeles
+1900,Honda,Civic,2017,Blue,,,New York
+1901,Ford,Focus,2019,Silver,70000.0,20000.0,Chicago
+1902,Chevrolet,Cruze,2016,Red,55000.0,22000.0,Miami
+1903,Hyundai,elantra,2015,,50000.0,$24000.0,San Francisco
+1904,TOYOTA,corolla,2020,,45000.0 miles,23000.0,Dallas
+1905,Honda,Accord,2018,White,40000.0 miles,,Atlanta
+1906,Ford,Mustang,2016,Yellow,,25000.0,Phoenix
+1907,CHEVROLET,Impala,2015,,70000.0,28000.0,Houston
+1908,Hyundai,Sonata,Two Thousand 2020,Blue,55000.0,,Seattle
+1909,Toyota,R@v30,2016,,50000.0,21000.0,Los Angeles
+1910,Honda,CR-V,2016,Red,,,New York
+1911,Ford,Escape,2015,,,29000.0,Chicago
+1912,Chevrolet,equinox,1800,Black,35000.0,27000.0,Miami
+1913,Hyundai,Kona,2019,Blue,55000.0,12000.0,San Francisco
+1914,Toyota,Highlander,2016,Silver,50000.0,15000.0,Dallas
+1915,Honda,Pilot,Two Thousand 2015,Gray,40000.0,17000.0,Atlanta
+1916,Ford,Explorer,2018,White,60000.0,14000.0,Phoenix
+1917,Chevrolet,Traverse,2015,Black,55000.0 miles,12000.0,Houston
+1918,Hyundai,Santa Fe,2016,Red,45000.0,18000.0,Seattle
+1919,Toyota,4Runner,2016,Silver,35000.0,16000.0,Los Angeles
+1920,Honda,Odyssey,2015,White,,,New York
+1921,Ford,edge,2019,Blue,60000.0,12000.0,Chicago
+1922,Chevrolet,Tahoe,Two Thousand 2015,Black,,15000.0,Miami
+1923,Hyundai,palisade,2016,Silver,25000.0,19000.0,San Francisco
+1924,Toyota,Sienna,2018,Red,30000.0,$18000.0,Dallas
+1925,HONDA,Fit,Two Thousand 2020,Gray,65000.0,,Atlanta
+1926,Ford,Fusion,2018,,55000.0,16000.0,Phoenix
+1927,Chevrolet,Malibu,2015,Blue,50000.0,14000.0,Houston
+1928,Hyundai,Venue,Two Thousand 2016,Silver,55000.0,19000.0,Seattle
+1929,Toyota,Yaris,2019,,,23000.0,Los Angeles
+1930,HONDA,HR-V,2015,White,40000.0,21000.0,New York
+1931,Ford,EcoSport,2015,Red,,$nan,Chicago
+1932,Chevrolet,Spark,2015,,35000.0,20000.0,Miami
+1933,Hyundai,Accent,1800,Silver,60000.0,,San Francisco
+1934,Toyota,Prius,2018,Gray,,24000.0,Dallas
+1935,Honda,Civic,2020,White,50000.0,23000.0,Atlanta
+1936,Ford,Fiesta,2018,Blue,35000.0,28000.0,Phoenix
+1937,Chevrolet,Cruze,2018,Black,40000.0,25000.0,Houston
+1938,Hyundai,El@ntr@,2018,,nan km,27000.0,Seattle
+1939,Toyota,Camry,2018,Silver,55000.0 km,22000.0,Los Angeles
+1940,Honda,Accord,2015,White,50000.0,21000.0,New York
+1941,Ford,Mustang,2017,Blue,45000.0,,Chicago
+1942,Chevrolet,camaro,2018,,,29000.0,Miami
+1943,Hyundai,Genesis,2020,Black,,27000.0,San Francisco
+1944,TOYOTA,Avalon,2016,Silver,55000.0,12000.0,Dallas
+1945,Honda,Civic,2017,Gray,50000.0,15000.0,Atlanta
+1946,Ford,Fusion,2015,White,40000.0,17000.0,Phoenix
+1947,CHEVROLET,Impala,2019,Blue,60000.0,14000.0,Houston
+1948,Hyundai,Sonata,2015,,55000.0,12000.0,Seattle
+1949,Toyota,Corolla,2016,Silver,50000.0,15000.0,Los Angeles
+1950,Honda,CR-V,2019,White,40000.0,$17000.0,New York
+1951,Ford,Escape,2019,Blue,35000.0 miles,14000.0,Chicago
+1952,Chevrolet,Equinox,2016,,70000.0 miles,12000.0,Miami
+1953,Hyundai,Tucson,2020,Red,,$15000.0,San Francisco
+1954,Toyota,Rav30,2018,,50000.0,17000.0,Dallas
+1955,Honda,pilot,2018,White,40000.0,14000.0,Atlanta
+1956,Ford,Explorer,2019,Blue,45000.0,16000.0,Phoenix
+1957,Chevr0let,Traverse,2017,,,18000.0,Houston
+1958,Hyundai,Santa Fe,2019,,60000.0,,Seattle
+1959,Toyota,4Runner,2018,,50000.0,18000.0,Los Angeles
+1960,Honda,Odyssey,2018,,40000.0,22000.0,New York
+1961,Ford,Edge,2018,Blue,35000.0,25000.0,Chicago
+1962,Chevrolet,Tahoe,2020,Black,,18000.0,Miami
+1963,Hyundai,Palisade,2020,Silver,55000.0,,San Francisco
+1964,Toyota,Sienna,2016,Red,50000.0,,Dallas
+1965,Honda,Fit,2019,Gray,,16000.0,Atlanta
+1966,Ford,Fusion,2018,White,,,Phoenix
+1967,Chevrolet,Malibu,2018,Blue,,,Houston
+1968,Hyundai,Venue,2016,Silver,55000.0,,Seattle
+1969,Toyota,Yaris,2017,Black,,23000.0,Los Angeles
+1970,TOYOTA,Camry,2017,White,40000.0,$21000.0,Los Angeles
+1971,Honda,Civic,2020,Blue,35000.0,24000.0,New York
+1972,Toyota,Camry,2015,,70000.0,20000.0,Los Angeles
+1973,Honda,Civic,2019,Blue,,22000.0,New York
+1974,Ford,Focus,2016,Silver,,24000.0,Chicago
+1975,Chevrolet,Cruze,2020,Red,45000.0,23000.0,Miami
+1976,Hyundai,Elantra,2017,,40000.0 km,27000.0,San Francisco
+1977,Toyota,Corolla,2018,Gray,35000.0 miles,25000.0,Dallas
+1978,Honda,Accord,2018,,70000.0,28000.0,Atlanta
+1979,Ford,Mustang,2019,,0.0,22000.0,Phoenix
+1980,Chevr0let,Impala,2019,Black,50000.0,21000.0,Houston
+1981,Hyundai,Sonata,2016,Blue,45000.0 km,26000.0,Seattle
+1982,Toyota,Rav31,2018,Gray,30000.0,,Los Angeles
+1983,Honda,CR-V,2016,Red,35000.0,27000.0,New York
+1984,Ford,Escape,2019,White,55000.0,$12000.0,Chicago
+1985,Chevrolet,Equinox,2020,,50000.0,15000.0,Miami
+1986,Hyundai,Kona,2019,Blue,40000.0,$17000.0,San Francisco
+1987,Toyota,Highlander,2017,Silver,60000.0,14000.0,Dallas
+1988,Honda,Pilot,2020,Gray,,12000.0,Atlanta
+1989,Ford,Explorer,2016,,45000.0,18000.0,Phoenix
+1990,Chevrolet,Tr@verse,2018,Black,35000.0 km,$16000.0,Houston
+1991,Hyundai,Santa Fe,2016,Red,55000.0,14000.0,Seattle
+1992,Toyota,4Runner,2015,Silver,nan km miles,,Los Angeles
+1993,Honda,Odyssey,2018,White,,15000.0,New York
+1994,Ford,Edge,2020,Blue,25000.0,19000.0,Chicago
+1995,Chevrolet,Tahoe,2020,Black,,18000.0,Miami
+1996,Hyundai,Palisade,2019,Silver,65000.0,$22000.0,San Francisco
+1997,Toyota,sienna,2018,Red,55000.0,16000.0,Dallas
+1998,Honda,Fit,2018,Gray,50000.0,14000.0,Atlanta
+1999,Ford,Fusion,2017,White,55000.0,19000.0,Phoenix
+2000,Chevrolet,malibu,2016,,30000.0,23000.0,Houston
+1861,Toyota,Prius,2015,Gray,,20000.0,Dallas
+354,Honda,Odyssey,2015,,60000.0,,New York
+1334,Hyundai,santa fe,2019,,55000.0,22000.0,Seattle
+906,Hyundai,Venue,2020,Silver,35000.0,24000.0,Seattle
+1290,Chevrolet,Impala,2019,,30000.0,,Houston
+1274,Ford,ecosport,2017,Red,55000.0,12000.0,Chicago
+939,Ford,Edge,2018,Blue,60000.0 miles,25000.0,Chicago
+1732,Ford,escape,2015,,,15000.0,Chicago
+66,Toyota,Sienna,Two Thousand 2020,,35000.0 km,,Dallas
+1324,Hyundai,Sonata,2015,Blue,55000.0,,Seattle
+57,Honda,pilot,2017,White,50000.0,,Atlanta
+1293,Honda,CR-V,2019,White,35000.0,20000.0,New York
+1119,Chevrolet,Tahoe,2019,Black,35000.0,24000.0,Miami
+585,Toyota,Camry,2016,,55000.0,24000.0,Los Angeles
+375,Hyundai,Sonata,2018,,40000.0,25000.0,Seattle
+276,Honda,Pilot,2019,White,50000.0,290000.0,Atlanta
+747,Honda,Pilot,2020,Gray,50000.0,,Atlanta
+129,Toyota,Rav5,2015,Gray,45000.0 km,23000.0,Dallas
+1647,Toyota,Camry,2017,Silver,45000.0,18000.0,Los Angeles
+1853,Ford,Fusion,2020,White,30000.0,18000.0,Phoenix
+675,Ford,Explorer,2015,White,,,Phoenix
+1665,Chevrolet,Traverse,2018,,50000.0,,Houston
+1982,Toyota,Rav31,2018,Gray,30000.0 km miles,,Los Angeles
+1084,Honda,Odyssey,2016,White,35000.0,28000.0,New York
+1923,Hyundai,Palisade,2016,Silver,25000.0,19000.0,San Francisco
+100,Honda,Fit,2017,Gray,40000.0,17000.0,Atlanta
+1180,Honda,CR-V,2016,Red,35000.0 miles,25000.0,New York
+965,Toyota,highlander,2017,Silver,50000.0,18000.0,Dallas
+793,Ford,Edge,2016,Blue,30000.0 miles,23000.0,Chicago
+30,Hyundai,Venue,2016,,60000.0,14000.0,Seattle
+629,Hyundai,Genesis,2016,,70000.0,,San Francisco
+945,Chevrolet,Malibu,2015,Blue,55000.0,$22000.0,Houston
+573,Honda,Odyssey,2015,,nan km,15000.0,New York
+908,Honda,hr-v,2019,,,,New York
+1081,Chevrolet,Traverse,2020,,60000.0,25000.0,Houston
+451,F0rd,Escape,2020,White,30000.0,$29000.0,Chicago
+1610,Chevrolet,Cruze,2020,,45000.0,16000.0,Miami
+1291,Hyundai,sonata,2018,Red,40000.0,,Seattle
+1079,Honda,Pilot,2020,White,nan km miles,$18000.0,Atlanta
+255,Toyota,Prius,2017,Gray,50000.0,,Dallas
+125,Honda,CR-V,2018,White,35000.0,24000.0,New York
+1928,Hyundai,Venue,2016,Silver,55000.0,19000.0,Seattle
+252,Ford,EcoSport,2017,Red,45000.0,,Chicago
+586,Honda,Civic,2016,Blue,50000.0 km,23000.0,New York
+1569,Toyota,Prius,2017,,,,Dallas
+825,Honda,Odyssey,2019,White,35000.0,25000.0,New York
+508,Hyundai,Venue,2015,Silver,55000.0,19000.0,Seattle
+890,Chevrolet,Equinox,1800,,40000.0,,Miami
+71,Toyota,Yaris,2017,Black,55000.0 km,,Los Angeles
+1609,Ford,focus,2020,Silver,50000.0,17000.0,Chicago
+1533,Honda,civic,2017,Blue,50000.0,,New York
+248,Chevr0let,Malibu,2017,Blue,70000.0,12000.0,Houston
+1451,Chevrolet,Tahoe,2020,Black,55000.0,12000.0,Miami
+213,Honda,Fit,2019,Gray,55000.0,,Atlanta
+910,Chevrolet,Spark,2019,Blue,45000.0,23000.0,Miami
+1742,Ford,Edge,2016,Blue,40000.0 km,14000.0,Chicago
+1245,Chevrolet,Cruze,2020,,40000.0,,Miami
+1697,Ford,Explorer,2015,,45000.0,26000.0,Phoenix
+1183,HYUNDAI,Kona,2016,Blue,,,San Francisco
+362,Hyundai,venue,2016,Silver,30000.0,18000.0,Seattle
+1474,Chevrolet,Equinox,2019,Black,35000.0,24000.0,Miami
+679,Honda,Odyssey,2020,White,,18000.0,New York
+1622,Toyota,Highlander,2018,Silver,,25000.0,Dallas
+1090,Ford,Fusion,2015,White,30000.0,29000.0,Phoenix
+1988,Honda,Pilot,2020,Gray,,12000.0,Atlanta
+1848,Ford,Edge,2019,Blue,35000.0,,Chicago
+988,Chevrolet,Cruze,2018,Black,,29000.0,Houston
+1513,Ford,Escape,2018,,55000.0,22000.0,Chicago
+112,Chevrolet,Cruze,2018,,,19000.0,Houston
+1488,Ford,Fusion,2019,White,50000.0 miles,$15000.0,Phoenix
+1454,Honda,fit,2018,Gray,35000.0,$14000.0,Atlanta
+384,Chevrolet,Traverse,2020,,40000.0,17000.0,Houston
+1396,Chevrolet,Impala,2020,,,,Houston
+1055,Ford,EcoSport,2016,Red,70000.0,,Chicago
+756,Toyota,Sienna,2016,,,19000.0,Dallas
+325,Ford,EcoSport,2020,,60000.0,100,Chicago
+1624,Ford,explorer,2016,,55000.0,,Phoenix
+788,Ford,Explorer,Two Thousand 2016,Blue,30000.0 miles,18000.0,Phoenix
+369,Chevrolet,Cruze,2019,,45000.0,,Miami
+1820,Ford,Fusion,2018,White,70000.0,18000.0,Phoenix
+70,Hyundai,Venue,2016,,60000.0,$nan,Seattle
+858,Hyundai,Tucson,2016,Red,,19000.0,San Francisco
+1484,Chevrolet,Tahoe,2015,,45000.0,26000.0,Miami
+1556,FORD,Edge,2019,Blue,,29000.0,Chicago
+1692,Ford,Escape,2018,,10,27000.0,Chicago
+1475,Hyundai,Kona,2018,,70000.0,20000.0,San Francisco
+1799,Honda,civic,2025,,45000.0,26000.0,Atlanta
+479,Toyota,camry,2020,Silver,,21000.0,Los Angeles
+282,Ford,Edge,2020,Blue,,17000.0,Chicago
+1648,Honda,accord,Two Thousand 2019,,35000.0,,New York
+1557,Chevrolet,Tahoe,2016,Black,35000.0,,Miami
+1730,Toyota,Coroll@,2016,Silver,35000.0,,Los Angeles
+211,HYUNDAI,Palisade,2016,Silver,40000.0 miles,,San Francisco
+298,Toyota,Corolla,2016,,45000.0 miles,$nan,Dallas
+1885,Hyundai,santa fe,Two Thousand 2018,Red,nan km,,Seattle
+1834,Chevrolet,Impala,2015,Black,40000.0,27000.0,Houston
+652,Ford,Fusion,2020,,40000.0,$21000.0,Phoenix
+1234,Toyota,Sienn@,2016,Red,,12000.0,Dallas
+1503,Ford,Mustang,2015,Blue,30000.0,23000.0,Chicago
+1932,Chevrolet,spark,2015,,35000.0,20000.0,Miami
+917,Toyota,Camry,2019,,,$nan,Los Angeles
+994,Hyundai,Genesis,2019,Black,55000.0,12000.0,San Francisco
+430,Hyundai,Palisade,2015,Silver,60000.0,12000.0,San Francisco
+1371,Honda,Pilot,2017,,55000.0,,Atlanta
+240,Toyota,4Runner,2018,Silver,55000.0,,Los Angeles
+880,Chevrolet,Cruze,2018,Red,50000.0,15000.0,Miami
+621,Honda,Civic,2018,White,40000.0 miles,,Atlanta
+257,Ford,fiesta,2017,Blue,35000.0,25000.0,Phoenix
+612,Ford,Fusion,2015,White,35000.0 miles,25000.0,Phoenix
+545,Chevrolet,Spark,2018,Blue,45000.0,16000.0,Miami
+772,Honda,Accord,2018,White,55000.0,22000.0,New York
+1420,Ford,EcoSport,2020,Red,55000.0,,Chicago
+1042,Hyundai,Santa Fe,2019,Red,45000.0,,Seattle
+1790,Ford,Fiesta,2016,Blue,35000.0,20000.0,Phoenix
+760,Hyundai,Venue,2018,Silver,35000.0,20000.0,Seattle
+383,Ford,Explorer,2016,White,50000.0,15000.0,Phoenix
+1104,Chevrolet,Impala,2016,,,,Houston
+974,Hyundai,Palisade,2025,Silver,55000.0,$19000.0,San Francisco
+353,Toyota,4Runner,Two Thousand 2016,Silver,40000.0,17000.0,Los Angeles
+1606,Honda,Civic,2017,Blue,35000.0,25000.0,New York
+1826,TOYOTA,Camry,2016,White,55000.0,19000.0,Los Angeles
+1037,Hyundai,Kona,2015,Blue,40000.0,22000.0,San Francisco
+1108,Ford,Escape,2020,,40000.0,,Chicago
+495,Honda,Pilot,2018,White,40000.0,17000.0,Atlanta
+394,Chevrolet,M@libu,2015,Blue,45000.0,16000.0,Houston
+1547,Chevrolet,Equinox,2019,,,,Miami
+465,Honda,Fit,2017,,45000.0,,Atlanta
+887,Toyota,Rav16,2020,,,,Los Angeles
+1194,Toyota,Sienna,2020,Red,45000.0,,Dallas
+367,Honda,Civic,2015,Blue,30000.0,23000.0,New York
+1894,Chevrolet,malibu,2018,Blue,45000.0,,Houston
+1874,Chevrolet,Impala,2015,Blue,50000.0,15000.0,Houston
+745,Hyundai,Kona,2020,,70000.0,12000.0,San Francisco
+530,Chevrolet,Traverse,2017,Black,40000.0,,Houston
+803,H0nda,Civic,2015,,55000.0 miles,22000.0,New York
+1224,Toyota,Rav20,2025,,55000.0,24000.0,Dallas
+1979,Ford,Mustang,2019,,55000.0,$22000.0,Phoenix
+1906,Ford,mustang,2016,Yellow,,$25000.0,Phoenix
+1700,TOYOTA,4Runner,2018,,55000.0,,Los Angeles
+1545,Honda,CR-V,2020,,35000.0,24000.0,New York
+1314,HONDA,civic,2019,Blue,55000.0,15000.0,New York
+307,Hyundai,Kona,2016,Blue,50000.0,$21000.0,San Francisco
+1667,Toyota,4Runner,2020,,35000.0,,Los Angeles
+863,Hyundai,Santa Fe,2018,,55000.0,19000.0,Seattle
+1567,Chevrolet,spark,Two Thousand 2017,Blue,,15000.0,Miami
+531,Hyundai,Santa Fe,2018,Red,35000.0,14000.0,Seattle
+655,Toyota,yaris,2016,,,25000.0,Los Angeles
+1260,Chevrolet,Traverse,2015,Black,40000.0,21000.0,Houston
+234,Hyundai,Kona,2018,,70000.0,27000.0,San Francisco
+121,Ford,Fusion,2015,White,35000.0,20000.0,Phoenix
+1698,Chevrolet,Traverse,2015,Black,30000.0,29000.0,Houston
+950,Toyota,Camry,2019,White,55000.0,,Los Angeles
+618,Chevrolet,Spark,2016,,,20000.0,Miami
+1179,Toyota,Rav20,2020,,0.0,22000.0,Los Angeles
+308,Toyota,Highlander,2017,Silver,45000.0,$nan,Dallas
+136,F0rd,Edge,2019,,30000.0,,Chicago
+555,Chevrolet,Camaro,2017,Red,45000.0,23000.0,Miami
+1674,Ford,Fusion,2018,White,60000.0,19000.0,Phoenix
+584,Honda,Civic,2020,Blue,60000.0,25000.0,New York
+1641,Hyundai,Accent,2016,Silver,,22000.0,San Francisco
+671,CHEVROLET,Equinox,2016,Black,50000.0,15000.0,Miami
+835,Honda,HR-V,2020,White,35000.0,24000.0,New York
+110,Honda,Civic,2015,,45000.0,,Atlanta
+1165,Hyundai,Venue,2017,Silver,40000.0,17000.0,Seattle
+1960,HONDA,Odyssey,2018,,40000.0,22000.0,New York
+1465,Hyundai,Elantra,2020,Black,70000.0,18000.0,San Francisco
+1729,Hyundai,sonata,2019,Red,30000.0,29000.0,Seattle
+1243,Honda,Civic,2018,,55000.0,290000.0,New York
+212,Toyota,Sienna,2018,,60000.0,14000.0,Dallas
+1768,Toyota,Highlander,2020,Silver,45000.0,26000.0,Dallas
+1121,Toyota,Sienna,1800,Red,55000.0,22000.0,Dallas
+680,F0rd,Edge,2018,Blue,60000.0,19000.0,Chicago
+1951,Ford,Escape,2019,Blue,35000.0,14000.0,Chicago
+1839,Chevrolet,Equinox,Two Thousand 2019,,45000.0,26000.0,Miami
+412,Honda,Civic,2020,Gray,50000.0,,Atlanta
+1325,Toyota,Rav22,2015,Gray,0.0,17000.0,Los Angeles
+783,Ford,Escape,2015,,35000.0,,Chicago
+1346,Honda,HR-V,2018,White,50000.0 miles,15000.0,New York
+875,TOYOTA,Camry,2017,White,50000.0,21000.0,Los Angeles
+1653,Honda,Civic,Two Thousand 2017,Gray,40000.0 km,25000.0,Atlanta
+1279,Ford,Fiesta,2018,Blue,,18000.0,Phoenix
+786,TOYOTA,Rav14,2018,Gray,nan miles,15000.0,Dallas
+1819,Honda,Fit,2019,,,25000.0,Atlanta
+1199,T0y0ta,Yaris,2016,Black,,21000.0,Los Angeles
+808,Hyundai,elantra,Two Thousand 2020,Black,,,San Francisco
+713,Toyota,Rav13,2018,Gray,55000.0,14000.0,Dallas
+1991,HYUNDAI,Santa Fe,2016,Red,55000.0,14000.0,Seattle
+1660,Chevrolet,Equinox,2019,Black,55000.0,,Miami
+1191,Ford,Edge,2018,Blue,70000.0,20000.0,Chicago
+1226,Ford,Explorer,2015,Blue,35000.0,28000.0,Phoenix
+603,CHEVROLET,traverse,2020,Black,,12000.0,Houston
+271,Honda,CR-V,2018,White,45000.0,23000.0,New York
+1385,Toyota,Yaris,2018,Black,55000.0,15000.0,Los Angeles
+232,Ford,Escape,2015,White,35000.0,,Chicago
+50,Hyundai,Son@t@,2020,Red,35000.0,20000.0,Seattle
+463,Hyundai,Palisade,2020,,50000.0,17000.0,San Francisco
+1106,Toyota,Rav19,2018,,,,Los Angeles
+856,Ford,Escape,2020,Blue,,,Chicago
+694,Honda,Civic,2020,,70000.0,20000.0,Atlanta
+1552,Chevrolet,Traverse,2020,,70000.0,28000.0,Houston
